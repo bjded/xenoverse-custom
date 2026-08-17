@@ -1,8 +1,9 @@
 #===============================================================================
-#  Persistent master volume
+#  Persistent system preferences
 #-------------------------------------------------------------------------------
-#  The volume preference is kept separately from the gameplay save so changing
-#  it does not depend on saving the current story position before closing.
+#  The volume and Auto Run preferences are kept separately from the gameplay
+#  save so changing them does not depend on saving the current story position
+#  before closing.
 #===============================================================================
 MASTER_VOLUME_LEVELS = [100,90,80,70,60,50,40,30,20,10,0] unless defined?(MASTER_VOLUME_LEVELS)
 MASTER_VOLUME_LABELS = ["100%","90%","80%","70%","60%","50%","40%","30%","20%","10%","Off"] unless defined?(MASTER_VOLUME_LABELS)
@@ -74,14 +75,27 @@ def pbApplyMasterVolume
   return true
 end
 
-def pbSavePersistentAudioSettings
+def pbPersistentSettingsHash
+  settings={:mastervolume=>$PokemonSystem.mastervolume}
+  if $PokemonSystem.respond_to?(:autorun)
+    settings[:autorun]=$PokemonSystem.autorun
+  else
+    # 145_PSystem_System.rb loads this file before 228_NewOptions.rb adds the
+    # Auto Run accessors. Preserve a value already loaded during that window.
+    autorun=$PokemonSystem.instance_variable_get(:@autorun)
+    settings[:autorun]=autorun if !autorun.nil?
+  end
+  return settings
+end
+
+def pbSavePersistentSettings
   return false if !$PokemonSystem
   path=pbMasterVolumeSettingsPath
   temp=path+".tmp"
   backup=path+".bak"
   begin
     File.open(temp,"wb"){|f|
-      Marshal.dump({:mastervolume=>$PokemonSystem.mastervolume},f)
+      Marshal.dump(pbPersistentSettingsHash,f)
     }
     if safeExists?(path)
       File.delete(backup) rescue nil
@@ -95,6 +109,10 @@ def pbSavePersistentAudioSettings
   end
 end
 
+def pbSavePersistentAudioSettings
+  return pbSavePersistentSettings
+end
+
 def pbLoadPersistentAudioSettings(apply=true)
   return false if !$PokemonSystem
   for path in [pbMasterVolumeSettingsPath,pbMasterVolumeSettingsPath+".bak"]
@@ -102,15 +120,37 @@ def pbLoadPersistentAudioSettings(apply=true)
     begin
       value=nil
       File.open(path,"rb"){|f| value=Marshal.load(f) }
-      value=value[:mastervolume] if value.is_a?(Hash)
-      if value.is_a?(Numeric)
-        original=pbNormalizeMasterVolume(value)
-        canonical=pbCanonicalMasterVolume(value)
+      mastervolume=value
+      hasAutorun=false
+      autorun=nil
+      if value.is_a?(Hash)
+        mastervolume=value[:mastervolume]
+        if value.has_key?(:autorun)
+          autorun=value[:autorun]
+          hasAutorun=true
+        end
+      end
+      loaded=false
+      if mastervolume.is_a?(Numeric)
+        original=pbNormalizeMasterVolume(mastervolume)
+        canonical=pbCanonicalMasterVolume(mastervolume)
         $PokemonSystem.mastervolume=canonical
+        loaded=true
+      end
+      if hasAutorun
+        autorun=(autorun==1 || autorun==true) ? 1 : 0
+        if $PokemonSystem.respond_to?(:autorun=)
+          $PokemonSystem.autorun=autorun
+        else
+          # The settings file is loaded before 228_NewOptions.rb is evaluated.
+          $PokemonSystem.instance_variable_set(:@autorun,autorun)
+        end
+        loaded=true
+      end
+      if loaded
         pbApplyMasterVolume if apply
-        # Rewrite legacy values (75/25) using the new decade scale while
-        # keeping the existing backup rotation.
-        pbSavePersistentAudioSettings if canonical!=original
+        # Rewrite legacy volume values while retaining all persistent settings.
+        pbSavePersistentSettings if mastervolume.is_a?(Numeric) && canonical!=original
         return true
       end
     rescue
@@ -124,7 +164,7 @@ def pbSetMasterVolumeOption(index)
   return if !$PokemonSystem
   $PokemonSystem.mastervolume=MASTER_VOLUME_LEVELS[index] || MASTER_VOLUME_LEVELS[0]
   pbApplyMasterVolume
-  pbSavePersistentAudioSettings
+  pbSavePersistentSettings
 end
 
 # Scale every RGSS audio channel, including title-screen playback that occurs

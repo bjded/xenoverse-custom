@@ -348,8 +348,8 @@ You're trying to load a save file from a newer version of the game. As this may 
         if !haveBackup
           begin; File.delete(savefile+".bak"); rescue; end
         end
-        # Loading a save replaces $PokemonSystem; restore the persistent volume
-        # without replaying the save's map music over the load screen.
+        # Loading a save replaces $PokemonSystem; restore the persistent system
+        # settings without replaying the save's map music over the load screen.
         pbLoadPersistentAudioSettings(false)
       end
       commands[cmdContinue=commands.length]=_INTL("Continue") if showContinue

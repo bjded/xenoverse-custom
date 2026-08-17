@@ -373,7 +373,10 @@ class PokemonOptionScene
        ),
        EnumOption.new(_INTL("Auto Run"),[_INTL("Off"),_INTL("On")],
           proc { $PokemonSystem.autorun },
-          proc {|value| $PokemonSystem.autorun=value }
+          proc {|value|
+             $PokemonSystem.autorun=value
+             pbSavePersistentSettings
+          }
        )
 # ------------------------------------------------------------------------------
     ]
