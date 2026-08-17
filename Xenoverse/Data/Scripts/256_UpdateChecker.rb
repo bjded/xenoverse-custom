@@ -219,7 +219,7 @@ end
 def pbXenoverseLaunchUpdater(packagePath)
   updaterPath=File.expand_path("UpdateGame.ps1")
   gameDirectory=File.expand_path(".")
-  gameExecutable=File.expand_path("Game.exe")
+  gameExecutable=File.expand_path("Game_n.exe")
   return false if !safeExists?(updaterPath) || !safeExists?(gameExecutable)
   begin
     processId=Win32API.new("kernel32","GetCurrentProcessId","","l").call
