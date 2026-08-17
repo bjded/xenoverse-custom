@@ -356,13 +356,13 @@ You're trying to load a save file from a newer version of the game. As this may 
       end
       commands[cmdContinue=commands.length]=_INTL("Continue") if showContinue
       if updateInfo
-        commands[cmdUpdate=commands.length]=_INTL("Update v{1}",updateInfo[:version])
+        commands[cmdUpdate=commands.length]=_INTL("Update Available (v{1})",updateInfo[:version])
       end
       commands[cmdNewGame=commands.length]=_INTL("New Game")
       commands[cmdMysteryGift=commands.length]=_INTL("Mystery Gift") if (trainer.mysterygiftaccess rescue false)
     else
       if updateInfo
-        commands[cmdUpdate=commands.length]=_INTL("Update v{1}",updateInfo[:version])
+        commands[cmdUpdate=commands.length]=_INTL("Update Available (v{1})",updateInfo[:version])
       end
       commands[cmdNewGame=commands.length]=_INTL("New Game")
     end

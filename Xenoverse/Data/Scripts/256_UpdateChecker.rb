@@ -88,17 +88,17 @@ def pbXenoverseHttpsRequest(url,outputFile=nil,progress=nil,maxBytes=65536)
     closeHandle=Win32API.new("winhttp","WinHttpCloseHandle","p","l")
 
     session=openSession.call(to_ws("Xenoverse Update Checker"),0,nil,nil,0)
-    return "" if !session || session==0
+    return outputFile ? false : "" if !session || session==0
     setTimeouts.call(session,XENOVERSE_UPDATE_PAGE_TIMEOUT,
       XENOVERSE_UPDATE_PAGE_TIMEOUT,XENOVERSE_UPDATE_PAGE_TIMEOUT,
       XENOVERSE_UPDATE_PAGE_TIMEOUT)
     connection=connectHost.call(session,to_ws(host),443,0)
-    return "" if !connection || connection==0
+    return outputFile ? false : "" if !connection || connection==0
     request=openRequest.call(connection,to_ws("GET"),to_ws(path),nil,nil,nil,
       0x00800000)
-    return "" if !request || request==0
-    return "" if sendRequest.call(request,nil,0,nil,0,0,0)==0
-    return "" if receiveResponse.call(request,nil)==0
+    return outputFile ? false : "" if !request || request==0
+    return outputFile ? false : "" if sendRequest.call(request,nil,0,nil,0,0,0)==0
+    return outputFile ? false : "" if receiveResponse.call(request,nil)==0
 
     totalBytes=0
     totalBuffer=[0].pack("L")

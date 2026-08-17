@@ -2,4 +2,4 @@
 version=1.5.6
 url=https://github.com/bjded/xenoverse-custom/releases/latest
 # Temporary test package. Replace with the published release asset before distribution.
-download=https://github.com/bjded/xenoverse-custom/archive/refs/heads/main.zip
+download=https://codeload.github.com/bjded/xenoverse-custom/zip/refs/heads/main
