@@ -287,7 +287,6 @@ class PokemonLoad
     $game_system   = Game_System.new
     $PokemonSystem = PokemonSystem.new if !$PokemonSystem
     cmdContinue    = -1
-    cmdUpdate      = -1
     cmdNewGame     = -1
     cmdOption      = -1
     cmdLanguage    = -1
@@ -306,7 +305,6 @@ class PokemonLoad
       $scene=nil
       return
     end
-    updateInfo=pbXenoverseCheckForUpdate
     if safeExists?(savefile)
       trainer=nil
       framecount=0
@@ -355,15 +353,9 @@ You're trying to load a save file from a newer version of the game. As this may 
         pbLoadPersistentAudioSettings(false)
       end
       commands[cmdContinue=commands.length]=_INTL("Continue") if showContinue
-      if updateInfo
-        commands[cmdUpdate=commands.length]=_INTL("Update Available (v{1})",updateInfo[:version])
-      end
       commands[cmdNewGame=commands.length]=_INTL("New Game")
       commands[cmdMysteryGift=commands.length]=_INTL("Mystery Gift") if (trainer.mysterygiftaccess rescue false)
     else
-      if updateInfo
-        commands[cmdUpdate=commands.length]=_INTL("Update Available (v{1})",updateInfo[:version])
-      end
       commands[cmdNewGame=commands.length]=_INTL("New Game")
     end
     commands[cmdOption=commands.length]=_INTL("Options")
@@ -521,28 +513,6 @@ You're trying to load a save file from a newer version of the game. As this may 
         $PokemonMap.updateMap
         $scene = Scene_Map.new
         
-        return
-      elsif cmdUpdate>=0 && command==cmdUpdate
-        if !Kernel.pbConfirmMessage(_INTL("Update v{1} is available.\nWould you like to download and install it now?",updateInfo[:version]))
-          $scene=pbCallTitle
-          return
-        end
-        @scene.pbEndScene
-        if updateInfo[:download] && updateInfo[:download]!=""
-          if pbXenoverseDownloadAndLaunchUpdate(updateInfo[:download])
-            exit
-          end
-          Kernel.pbMessage(_INTL("The update could not be downloaded or installed. Please try again later."))
-          $scene=pbCallTitle
-        else
-          if pbXenoverseOpenUpdatePage(updateInfo[:url])
-            Kernel.pbMessage(_INTL("A newer version is available. The update page was opened. Please close the game before installing it."))
-            $scene=nil
-          else
-            Kernel.pbMessage(_INTL("A newer version is available at:\n{1}",updateInfo[:url]))
-            $scene=pbCallTitle
-          end
-        end
         return
       elsif cmdNewGame>=0 && command==cmdNewGame
         @scene.pbEndScene
