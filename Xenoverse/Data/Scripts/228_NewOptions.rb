@@ -245,6 +245,15 @@ class PokemonSystem
   def mevolume;return 100;end
   def sevolume;return 100;end
 
+  def autorun
+    return 1 if @autorun==1 || @autorun==true
+    return 0
+  end
+
+  def autorun=(value)
+    @autorun=(value==1 || value==true) ? 1 : 0
+  end
+
   def language
     return (!@language) ? 0 : @language
   end
@@ -264,6 +273,7 @@ class PokemonSystem
     @font        = 0   # Font (see also $VersionStyles)
     @screensize  = (DEFAULTSCREENZOOM.floor).to_i # 0=half size, 1=full size, 2=double size
     @language    = 0   # Language (see also LANGUAGES in script PokemonSystem)
+    @autorun     = 0   # Auto run (0=off, 1=on)
   end
 end
 
@@ -314,7 +324,7 @@ class PokemonOptionScene
 		
 		@sprites["lowerbar"]=EAMSprite.new(@viewport)
 		@sprites["lowerbar"].bitmap = pbBitmap(@path + "lowerbar").clone
-		@sprites["lowerbar"].y = 343
+		@sprites["lowerbar"].y = Graphics.height - @sprites["lowerbar"].bitmap.height
 		@sprites["lowerbar"].bitmap.font = Font.new
 		@sprites["lowerbar"].bitmap.font.name = "Barlow Condensed"
 		@sprites["lowerbar"].bitmap.font.bold = true
@@ -360,6 +370,10 @@ class PokemonOptionScene
        EnumOption.new(_INTL("Volume"),MASTER_VOLUME_LABELS,
           proc { pbMasterVolumeOptionIndex },
           proc {|value| pbSetMasterVolumeOption(value) }
+       ),
+       EnumOption.new(_INTL("Auto Run"),[_INTL("Off"),_INTL("On")],
+          proc { $PokemonSystem.autorun },
+          proc {|value| $PokemonSystem.autorun=value }
        )
 # ------------------------------------------------------------------------------
     ]
@@ -371,7 +385,8 @@ class PokemonOptionScene
 			@sprites["opt#{opt}"].setOption(@PokemonOptions[opt])
 			@sprites["opt#{opt}"].createOptions
 			@sprites["opt#{opt}"].x = 29
-			@sprites["opt#{opt}"].y = 86 + opt * 53
+			# Six rows fit between the title and the bottom action bar.
+			@sprites["opt#{opt}"].y = 75 + opt * 45
 		end
 		
 		@index = 0

@@ -23,7 +23,11 @@ class Game_Player
 
   def pbCanRun?
     terrain=pbGetTerrainTag
-    return Input.press?(Input::A) &&
+    autoRun=$PokemonSystem && $PokemonSystem.respond_to?(:autorun) &&
+      $PokemonSystem.autorun==1
+    runKeyPressed=Input.press?(Input::A)
+    runEnabled=autoRun ? !runKeyPressed : runKeyPressed
+    return runEnabled &&
        !pbMapInterpreterRunning? && !@move_route_forcing && 
        $PokemonGlobal && $PokemonGlobal.runningShoes &&
        !$PokemonGlobal.diving && !$PokemonGlobal.surfing &&

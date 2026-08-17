@@ -9,6 +9,12 @@ This custom build retains the original game, creator credits, branding, and usag
 
 Please back up `Game.rxdata` before using the save editor.
 
+## Update check
+
+The game reads [`Xenoverse/UpdateManifest.txt`](Xenoverse/UpdateManifest.txt) once at startup. If its version is newer than the local `GAME_VERSION`, the title screen shows an update command and opens the configured release page. Network failures are ignored so the game remains usable offline.
+
+To test the title-screen update command locally, temporarily set `XENOVERSE_UPDATE_TEST_MODE` to `true` in `256_UpdateChecker.rb`. This uses version `1.5.6` without contacting GitHub; set it back to `false` before publishing.
+
 ## Mystery gifts
 
 The offline Mystery Gift catalog is stored in [`Xenoverse/Data/MysteryGifts.csv`](Xenoverse/Data/MysteryGifts.csv) and is handled by [`249_LocalMysteryGifts.rb`](Xenoverse/Data/Scripts/249_LocalMysteryGifts.rb). Published codes are checked locally before the original remote request. Every catalog entry uses `9999-12-31` as its expiration date, so these local gifts do not expire.
