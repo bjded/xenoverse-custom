@@ -4,8 +4,8 @@
 #  The volume preference is kept separately from the gameplay save so changing
 #  it does not depend on saving the current story position before closing.
 #===============================================================================
-MASTER_VOLUME_LEVELS = [100,75,50,25,0] unless defined?(MASTER_VOLUME_LEVELS)
-MASTER_VOLUME_LABELS = ["100%","75%","50%","25%","Off"] unless defined?(MASTER_VOLUME_LABELS)
+MASTER_VOLUME_LEVELS = [100,90,80,70,60,50,40,30,20,10,0] unless defined?(MASTER_VOLUME_LEVELS)
+MASTER_VOLUME_LABELS = ["100%","90%","80%","70%","60%","50%","40%","30%","20%","10%","Off"] unless defined?(MASTER_VOLUME_LABELS)
 MASTER_VOLUME_SETTINGS_FILE = "GameSettings.rxdata" unless defined?(MASTER_VOLUME_SETTINGS_FILE)
 
 def pbNormalizeMasterVolume(value)
@@ -14,6 +14,14 @@ def pbNormalizeMasterVolume(value)
   value=0 if value<0
   value=100 if value>100
   return value
+end
+
+def pbCanonicalMasterVolume(value)
+  value=pbNormalizeMasterVolume(value)
+  return value if MASTER_VOLUME_LEVELS.include?(value)
+  # The previous menu offered 75% and 25%. Snap unsupported saved values
+  # downward so migrating a setting never makes the audio louder.
+  return (value/10)*10
 end
 
 def pbMasterVolumeScale(volume)
@@ -28,11 +36,15 @@ end
 
 class PokemonSystem
   def mastervolume
-    return pbNormalizeMasterVolume(@mastervolume)
+    value=pbCanonicalMasterVolume(@mastervolume)
+    # Also migrate a legacy value embedded in an older Game.rxdata save when
+    # there is no separate GameSettings.rxdata file to rewrite.
+    @mastervolume=value if @mastervolume.is_a?(Numeric) && @mastervolume!=value
+    return value
   end
 
   def mastervolume=(value)
-    @mastervolume=pbNormalizeMasterVolume(value)
+    @mastervolume=pbCanonicalMasterVolume(value)
   end
 end
 
@@ -92,8 +104,13 @@ def pbLoadPersistentAudioSettings(apply=true)
       File.open(path,"rb"){|f| value=Marshal.load(f) }
       value=value[:mastervolume] if value.is_a?(Hash)
       if value.is_a?(Numeric)
-        $PokemonSystem.mastervolume=value
+        original=pbNormalizeMasterVolume(value)
+        canonical=pbCanonicalMasterVolume(value)
+        $PokemonSystem.mastervolume=canonical
         pbApplyMasterVolume if apply
+        # Rewrite legacy values (75/25) using the new decade scale while
+        # keeping the existing backup rotation.
+        pbSavePersistentAudioSettings if canonical!=original
         return true
       end
     rescue
