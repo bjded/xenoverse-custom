@@ -11,7 +11,9 @@ Please back up `Game.rxdata` before using the save editor.
 
 ## Update check
 
-The game reads [`Xenoverse/UpdateManifest.txt`](Xenoverse/UpdateManifest.txt) once at startup. If its version is newer than the local `GAME_VERSION`, the title screen shows an update command and opens the configured release page. Network failures are ignored so the game remains usable offline.
+The game reads [`Xenoverse/UpdateManifest.txt`](Xenoverse/UpdateManifest.txt) once at startup. If its version is newer than the local `GAME_VERSION`, the title screen shows an update command. Selecting it asks for confirmation, downloads the configured update package, and hands the installation to [`UpdateGame.ps1`](Xenoverse/UpdateGame.ps1) after the game exits. Network failures are ignored so the game remains usable offline.
+
+Published update packages should use the stable asset name `Xenoverse-update.zip`. The archive may contain the runnable `Xenoverse` folder, a single named folder containing it, or the game files directly. Saves and local settings are preserved during the merge.
 
 To test the title-screen update command locally, temporarily set `XENOVERSE_UPDATE_TEST_MODE` to `true` in `256_UpdateChecker.rb`. This uses version `1.5.6` without contacting GitHub; set it back to `false` before publishing.
 

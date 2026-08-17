@@ -523,13 +523,25 @@ You're trying to load a save file from a newer version of the game. As this may 
         
         return
       elsif cmdUpdate>=0 && command==cmdUpdate
-        @scene.pbEndScene
-        if pbXenoverseOpenUpdatePage(updateInfo[:url])
-          Kernel.pbMessage(_INTL("A newer version is available. The update page was opened. Please close the game before installing it."))
-          $scene=nil
-        else
-          Kernel.pbMessage(_INTL("A newer version is available at:\n{1}",updateInfo[:url]))
+        if !Kernel.pbConfirmMessage(_INTL("Update v{1} is available.\nWould you like to download and install it now?",updateInfo[:version]))
           $scene=pbCallTitle
+          return
+        end
+        @scene.pbEndScene
+        if updateInfo[:download] && updateInfo[:download]!=""
+          if pbXenoverseDownloadAndLaunchUpdate(updateInfo[:download])
+            exit
+          end
+          Kernel.pbMessage(_INTL("The update could not be downloaded or installed. Please try again later."))
+          $scene=pbCallTitle
+        else
+          if pbXenoverseOpenUpdatePage(updateInfo[:url])
+            Kernel.pbMessage(_INTL("A newer version is available. The update page was opened. Please close the game before installing it."))
+            $scene=nil
+          else
+            Kernel.pbMessage(_INTL("A newer version is available at:\n{1}",updateInfo[:url]))
+            $scene=pbCallTitle
+          end
         end
         return
       elsif cmdNewGame>=0 && command==cmdNewGame
