@@ -192,6 +192,12 @@ class NewMenu
 		@sprites["mg"].x = 10
 		@sprites["mg"].y = 320
 	end
+	if defined?(XENOVERSE_SAVE_EDITOR_ENABLED) && XENOVERSE_SAVE_EDITOR_ENABLED
+		@sprites["debug"] = EAMSprite.new(viewport)
+		@sprites["debug"].bitmap = pbBitmap("Graphics/Pictures/newMenu/debug")
+		@sprites["debug"].x = Graphics.width - @sprites["debug"].bitmap.width - 10
+		@sprites["debug"].y = 320
+	end
 	10.times do
       @bg.opacity+=15.5
     end
@@ -389,14 +395,19 @@ class NewMenu
 		elsif Input.trigger?(Input::Y) && !(pbInSafari? || pbInBugContest?) && $Trainer.party.length>0 && $game_switches[UNLOCKMGSWITCH]
 			pbSEPlay("Select")
 			pbMGH
+		elsif Input.trigger?(Input::F9) && defined?(XENOVERSE_SAVE_EDITOR_ENABLED) && XENOVERSE_SAVE_EDITOR_ENABLED
+			pbSEPlay("Select")
+			close
+			pbXenoverseSaveEditorFromMap
 		elsif Input.trigger?(Input::B)
 			pbSEPlay("menu")
 			close
 		elsif Input.trigger?(Input::X) && $DEBUG
+			pbSEPlay("Select")
+			close
 			pbFadeOutIn(99999) { 
 				pbDebugMenu
 			}
-			pbSEPlay("Select")
 		end
 	end
   

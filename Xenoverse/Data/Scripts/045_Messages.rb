@@ -1026,7 +1026,8 @@ def Kernel.pbShowCommandsWithHelp(msgwindow,commands,help,cmdIfCancel=0,defaultC
   end
   msgwin.letterbyletter=oldlbl
   if !msgwindow
-    msgwin.dispose
+    # Clear the global message-window state as well as disposing the window.
+    Kernel.pbDisposeMessageWindow(msgwin)
   end
   return ret
 end

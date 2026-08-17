@@ -68,4 +68,7 @@ def pbXenoverseSaveEditorFromMap
   when 1
     pbFadeOutIn(99999) { pbXenoverseBoxEditor }
   end
+ensure
+  # Re-enter the map update path after an editor closes, including no-edit exits.
+  pbUpdateSceneMap
 end
