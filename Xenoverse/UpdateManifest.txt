@@ -1,5 +1,4 @@
 # One-shot update manifest read by the game at startup.
 version=1.5.6
-url=https://github.com/bjded/xenoverse-custom/releases/latest
-# Temporary test package. Replace with the published release asset before distribution.
-download=https://codeload.github.com/bjded/xenoverse-custom/zip/refs/heads/main
+url=https://github.com/bjded/xenoverse-custom/releases/tag/v1.5.6
+download=https://github.com/bjded/xenoverse-custom/releases/download/v1.5.6/Xenoverse-update.zip

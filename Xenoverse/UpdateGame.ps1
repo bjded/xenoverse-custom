@@ -34,13 +34,16 @@ function Test-PreservedPath([string]$RelativePath) {
   if ($normalized -match '(^|\\)GameSettings\.rxdata$') {
     return $true
   }
-  if ($normalized -match '^Data\\LastSave[^\\]*\.dat$') {
+  if ($normalized -match '(^|\\)(?:Data\\)?LastSave[^\\]*\.dat$') {
     return $true
   }
   return $false
 }
 
 function Get-SafeDestination([string]$RelativePath) {
+  if ([IO.Path]::IsPathRooted($RelativePath) -or $RelativePath -match '(^|[\\/])\.\.([\\/]|$)') {
+    throw "Unsafe update path: $RelativePath"
+  }
   $candidate = [IO.Path]::GetFullPath((Join-Path $gameRoot $RelativePath))
   $rootPrefix = $gameRoot + '\'
   if (-not $candidate.StartsWith($rootPrefix,[StringComparison]::OrdinalIgnoreCase)) {
@@ -81,7 +84,7 @@ try {
   Expand-Archive -LiteralPath $package -DestinationPath $packageRoot -Force
   $sourceRoot = $packageRoot
   $nestedRoot = Join-Path $packageRoot "Xenoverse"
-  if (Test-UpdateRoot $nestedRoot) {
+  if (Test-Path -LiteralPath $nestedRoot -PathType Container) {
     $sourceRoot = $nestedRoot
   } else {
     $topDirectories = @(Get-ChildItem -LiteralPath $packageRoot -Directory -Force)
@@ -97,11 +100,33 @@ try {
   }
   $sourceRoot = [IO.Path]::GetFullPath($sourceRoot).TrimEnd('\')
 
+  $deletePlan = @()
+  $deletionList = Join-Path $sourceRoot ".xenoverse-update\deletions.txt"
+  if (Test-Path -LiteralPath $deletionList -PathType Leaf) {
+    foreach ($line in Get-Content -LiteralPath $deletionList) {
+      $relative = $line.ToString().Trim() -replace "/","\"
+      if ($relative=="" -or $relative.StartsWith("#")) {
+        continue
+      }
+      if ($relative -match '(^|[\\/])\.\.([\\/]|$)' -or (Test-PreservedPath $relative)) {
+        throw "Unsafe or preserved deletion path: $relative"
+      }
+      $destination = Get-SafeDestination $relative
+      $deletePlan += New-Object PSObject -Property @{
+        Relative = $relative
+        Destination = $destination
+      }
+    }
+  }
+
   $plan = @()
   $files = @(Get-ChildItem -LiteralPath $sourceRoot -Recurse -File -Force)
   foreach ($file in $files) {
     $relative = $file.FullName.Substring($sourceRoot.Length).TrimStart([char[]]"\/")
-    if ([string]::IsNullOrEmpty($relative) -or (Test-PreservedPath $relative)) {
+    if ([string]::IsNullOrEmpty($relative) -or
+      $relative -eq ".xenoverse-update" -or
+      $relative.StartsWith(".xenoverse-update\",[StringComparison]::OrdinalIgnoreCase) -or
+      (Test-PreservedPath $relative)) {
       continue
     }
     $destination = Get-SafeDestination $relative
@@ -111,7 +136,7 @@ try {
       Destination = $destination
     }
   }
-  if ($plan.Count -eq 0) {
+  if ($plan.Count -eq 0 -and $deletePlan.Count -eq 0) {
     throw "The update package contained no applicable files"
   }
 
@@ -122,6 +147,22 @@ try {
       New-Item -ItemType Directory -Path $backupParent -Force | Out-Null
       Copy-Item -LiteralPath $item.Destination -Destination $backupPath -Force
       $backups[$item.Destination] = $backupPath
+    }
+  }
+
+  foreach ($item in $deletePlan) {
+    if (Test-Path -LiteralPath $item.Destination -PathType Leaf) {
+      $backupPath = Join-Path $backupRoot $item.Relative
+      $backupParent = Split-Path -Parent $backupPath
+      New-Item -ItemType Directory -Path $backupParent -Force | Out-Null
+      Copy-Item -LiteralPath $item.Destination -Destination $backupPath -Force
+      $backups[$item.Destination] = $backupPath
+    }
+  }
+
+  foreach ($item in $deletePlan) {
+    if (Test-Path -LiteralPath $item.Destination -PathType Leaf) {
+      Remove-Item -LiteralPath $item.Destination -Force
     }
   }
 
@@ -138,15 +179,15 @@ try {
   Write-UpdateLog "Update applied successfully."
 } catch {
   Write-UpdateLog ("Update failed: " + $_.Exception.Message)
-  for ($i=$copied.Count-1; $i -ge 0; $i--) {
-    $destination = $copied[$i]
+  foreach ($destination in $backups.Keys) {
     try {
-      if ($backups.ContainsKey($destination)) {
-        Copy-Item -LiteralPath $backups[$destination] -Destination $destination -Force
-      } elseif (Test-Path -LiteralPath $destination -PathType Leaf) {
-        Remove-Item -LiteralPath $destination -Force
-      }
+      Copy-Item -LiteralPath $backups[$destination] -Destination $destination -Force
     } catch {
+    }
+  }
+  foreach ($destination in $copied) {
+    if (-not $backups.ContainsKey($destination) -and (Test-Path -LiteralPath $destination -PathType Leaf)) {
+      Remove-Item -LiteralPath $destination -Force -ErrorAction SilentlyContinue
     }
   }
 } finally {

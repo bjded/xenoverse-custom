@@ -15,6 +15,26 @@ The game reads [`Xenoverse/UpdateManifest.txt`](Xenoverse/UpdateManifest.txt) on
 
 Published update packages should use the stable asset name `Xenoverse-update.zip`. The archive may contain the runnable `Xenoverse` folder, a single named folder containing it, or the game files directly. Saves and local settings are preserved during the merge.
 
+### Building a patch package
+
+Do not use GitHub's automatic `main.zip` for releases; that archive contains the entire repository. Build a patch from the previous release ref to the new committed release ref instead:
+
+```powershell
+.\tools\Build-XenoverseUpdate.ps1 -BaseRef v1.5.5 -TargetRef v1.5.6
+```
+
+Replace those example refs with the actual previous and new release tags (or commit IDs for the first release).
+
+The builder reads the target `GAME_VERSION`, includes only changed files under `Xenoverse`, excludes save files and local state, records deleted files for the installer, and writes these artifacts under `dist\updates\v<version>\`:
+
+- `Xenoverse-update.zip` — upload this as the GitHub release asset.
+- `UpdateManifest.txt` — generated release values to review and commit in `Xenoverse/UpdateManifest.txt` before tagging.
+- `Xenoverse-update.zip.sha256` — optional upload-side checksum.
+
+Use the previous release tag or commit as `-BaseRef`; it must match the version installed by the players receiving the patch. The target version must be newer than the base version. If the working tree has unrelated edits, the builder packages the committed target ref only when `-AllowDirty` is supplied; committing the release first is recommended. Use `-Force` to regenerate an existing versioned output directory.
+
+The normal release sequence is: update the game version and manifest to the next release URL, commit and push those changes, create and push the release tag, run the builder against the previous and new refs, and upload `Xenoverse-update.zip` to the matching GitHub release. The updater then downloads the small patch, merges it into the local game folder, preserves saves, and restarts the game.
+
 To test the title-screen update command locally, temporarily set `XENOVERSE_UPDATE_TEST_MODE` to `true` in `256_UpdateChecker.rb`. This uses version `1.5.6` without contacting GitHub; set it back to `false` before publishing.
 
 ## Mystery gifts
