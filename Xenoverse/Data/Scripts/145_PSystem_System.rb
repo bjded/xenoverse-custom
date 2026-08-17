@@ -179,3 +179,5 @@ def pbDebugF7
 end
  
 pbSetUpSystem()
+# Load this before title audio starts; Audio applies it to all new playback.
+pbLoadPersistentAudioSettings(false)

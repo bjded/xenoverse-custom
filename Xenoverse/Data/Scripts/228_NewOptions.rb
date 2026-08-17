@@ -356,6 +356,10 @@ class PokemonOptionScene
                ObjectSpace.each_object(TilemapLoader){|o| next if o.disposed?; o.updateClass }
              end
           }
+        ),
+       EnumOption.new(_INTL("Volume"),MASTER_VOLUME_LABELS,
+          proc { pbMasterVolumeOptionIndex },
+          proc {|value| pbSetMasterVolumeOption(value) }
        )
 # ------------------------------------------------------------------------------
     ]

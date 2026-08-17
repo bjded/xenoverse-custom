@@ -1,6 +1,7 @@
-# TEMPORARY DRAFT: local Mystery Gift lookup for offline testing.
-# This file intentionally preserves the existing remote path for every other code.
-# Twitch convention: TW1TCH_<VARIANT>_<SPECIES> (for example, TW1TCH_RETRO_STARYU).
+# Local Mystery Gift catalog for the offline build.
+# Published codes are transcribed from the available reward cards. Cards without
+# a published code use a local TW1TCH_<VARIANT>_<SPECIES> alias.
+# Unknown codes still use the original remote path.
 
 LOCAL_MYSTERY_GIFTS_ENABLED = true unless defined?(LOCAL_MYSTERY_GIFTS_ENABLED)
 
@@ -28,7 +29,7 @@ module LocalMysteryGifts
         for i in 0...header.length
           record[header[i]] = values[i] || ""
         end
-        @records[record["code"]] = record if record["code"] && record["code"] != ""
+        @records[record["code"].upcase] = record if record["code"] && record["code"] != ""
       end
       file.close
     rescue
@@ -39,11 +40,13 @@ module LocalMysteryGifts
 
   def self.record(code)
     return nil if !LOCAL_MYSTERY_GIFTS_ENABLED
-    return records[code]
+    return records[code.to_s.upcase]
   end
 
-  def self.response(record)
+  def self.response(record, requested_code=nil)
     # Preserve the existing 14-field wire format so the normal parser is tested.
+    # Leave OT and nickname unset: the game assigns the current trainer as OT
+    # and keeps the normal species-name display when no nickname is supplied.
     ivs = []
     6.times { ivs.push(rand(32)) }
     evs = "0|0|0|0|0|0"
@@ -59,18 +62,18 @@ module LocalMysteryGifts
     end
 
     values = [
-      record["code"],
+      requested_code || record["code"],
       record["species"],
       record["level"],
       record["shiny"],
-      record["ot"],
+      "NIL",
       record["ball"],
       record["item"],
       ivs.join("|"),
       evs,
       moves,
       record["ability"],
-      record["nickname"],
+      "NIL",
       gender.to_s,
       record["form"]
     ]
@@ -90,7 +93,7 @@ class Database
 
     def requestGift(type, code, data={})
       local = LocalMysteryGifts.record(code)
-      return LocalMysteryGifts.response(local) if type == "getGifts" && local
+      return LocalMysteryGifts.response(local, code) if type == "getGifts" && local
       return local_mock_remote_request_gift(type, code, data)
     end
   end
