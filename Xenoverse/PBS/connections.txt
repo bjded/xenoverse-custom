@@ -1,0 +1,8 @@
+# Motonave Cometa (4) - Relitto Meteora (5)
+4,East,0,5,West,0
+# Percorso 3 (26) - Percorso 4 (27)
+26,East,1,27,West,0
+# Percorso 3 (26) - Percorso 3 (23)
+26,North,1,23,South,0
+# Percorso 12 (42) - Vulcano Pulsar (106)
+42,West,5,106,East,0

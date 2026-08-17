@@ -1,0 +1,559 @@
+[1018_1]
+DESCRIPTION=(Manto Shyleon)\n Soffre molto la solitudine e per poter avvicinare gli esseri umani e gli altri Pokémon, cela il suo tremendo aspetto sotto a un panno.
+[1018_2]
+DESCRIPTION=(Manto Trishout)\n Soffre molto la solitudine e per poter avvicinare gli esseri umani e gli altri Pokémon, cela il suo tremendo aspetto sotto a un panno.
+[1018_3]
+DESCRIPTION=(Manto Shulong)\n Soffre molto la solitudine e per poter avvicinare gli esseri umani e gli altri Pokémon, cela il suo tremendo aspetto sotto a un panno.
+[1021_1]
+DESCRIPTION=(Forma Terrestre)\n L'Energia Rossa ha acuito la sua capacità di mimetizzarsi. Nel suo habitat è praticamente impossibile da individuare.
+HEIGHT=0.8
+WEIGHT=22.5
+KIND=Maschera
+[1021_2]
+DESCRIPTION=(Forma Xenoverse)\n Ha acquisito poteri magici assorbendo l'Energia Blu. Un'antica civiltà del passato lo venerava come una divinità.
+HEIGHT=2.7
+WEIGHT=77
+KIND=Maschera
+[1021_3]
+DESCRIPTION=(Forma Astro)\n Il reale aspetto di Shyleon. In tempi antichissimi, combatté coi suoi fratelli al fianco di Luxflon per scongiurare il Caos nell'universo.
+HEIGHT=2.9
+WEIGHT=80
+KIND=Novastella
+[1022_1]
+DESCRIPTION=(Forma Terrestre)\n È divenuto più combattivo grazie all'Energia Terrestre. In lotta si scatena con fiamme roventi che sprigiona dal corno.
+HEIGHT=0.9
+WEIGHT=20
+KIND=Urlocertola
+[1022_2]
+DESCRIPTION=(Forma Xenoverse)\n L'Energia Blu gli ha conferito un potere esplosivo incontenibile. Espellendo aria dai fori sul corpo, accresce l'intensità dei propri boati.
+HEIGHT=1.6
+WEIGHT=99
+KIND=Urlocertola
+[1022_3]
+DESCRIPTION=(Forma Astro)\n Il reale aspetto di Trishout. In tempi antichissimi, combatté coi suoi fratelli al fianco di Luxflon per scongiurare il Caos nell'universo.
+HEIGHT=3.1
+WEIGHT=79
+KIND=Novastella
+[1023_1]
+DESCRIPTION=(Forma Terrestre)\n L'energia del Pianeta Terra gli ha mutato la pelle in una coriacea armatura. Ad ogni ferita si rialza più forte.
+HEIGHT=0.8
+WEIGHT=29
+KIND=Dragoblu
+[1023_2]
+DESCRIPTION=(Forma Xenoverse)\n L'esposizione all'Energia Blu lo ha reso aggressivo e territoriale. Niente e nessuno può tenergli testa in una lotta subacquea.
+HEIGHT=2.2
+WEIGHT=88
+KIND=Dragoblu
+BattlerPlayerY=25
+BattlerEnemyY=25
+[1023_3]
+DESCRIPTION=(Forma Astro)\n Il reale aspetto di Shulong. In tempi antichissimi, combatté coi suoi fratelli al fianco di Luxflon per scongiurare il Caos nell'universo.
+HEIGHT=3.1
+WEIGHT=130
+KIND=Novastella
+[1029_1]
+TYPE1=6
+TYPE2=7
+DESCRIPTION=(Spettroveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_2]
+TYPE1=6
+TYPE2=15
+DESCRIPTION=(Geloveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_4]
+TYPE1=6
+TYPE2=17
+DESCRIPTION=(Scuroveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_5]
+TYPE1=6
+TYPE2=13
+DESCRIPTION=(Tuonoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_6]
+TYPE1=6
+TYPE2=1
+DESCRIPTION=(Pugnoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_7]
+TYPE1=6
+TYPE2=2
+DESCRIPTION=(Voloveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_8]
+TYPE1=6
+TYPE2=12
+DESCRIPTION=(Erboveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_9]
+TYPE1=6
+TYPE2=5
+DESCRIPTION=(Litoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_10]
+TYPE1=6
+TYPE2=0
+DESCRIPTION=(Normoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_11]
+TYPE1=6
+TYPE2=3
+DESCRIPTION=(Fieleveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_12]
+TYPE1=6
+TYPE2=4
+DESCRIPTION=(Geoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_13]
+TYPE1=6
+TYPE2=8
+DESCRIPTION=(Ferroveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_14]
+TYPE1=6
+TYPE2=11
+DESCRIPTION=(Idroveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_15]
+TYPE1=6
+TYPE2=9
+DESCRIPTION=(Suonoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_16]
+TYPE1=6
+TYPE2=14
+DESCRIPTION=(Psicoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_17]
+TYPE1=6
+TYPE2=16
+DESCRIPTION=(Dracoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1029_18]
+TYPE1=6
+TYPE2=18
+DESCRIPTION=(Fataveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+[1030_1]
+DESCRIPTION=(Forma Chitarrista)\n Si ritiene che rappresenti la musica in tutte le sue forme. Pizzicando i grandi baffi, realizza assoli così elettrizzanti da far rizzare il pelo. 
+HEIGHT=0.7
+WEIGHT=9.7
+TYPE1=13
+TYPE2=9
+[1030_2]
+DESCRIPTION=(Forma Percussionista)\n Si ritiene che rappresenti la musica in tutte le sue forme. Percuotendosi il petto con le bacchette, dà la carica a sé stesso e ai compagni. 
+HEIGHT=1.6
+WEIGHT=82
+TYPE1=1
+TYPE2=9
+[1030_3]
+DESCRIPTION=(Forma Bassista)\n Si ritiene che rappresenti la musica in tutte le sue forme. Strimpella la sua coda tranquillo, ma talvolta può sorprendere con dei groove energici.
+HEIGHT=1.9
+WEIGHT=99.7
+TYPE1=17
+TYPE2=9
+[1035_1]
+DESCRIPTION=(Forma Rush)\n È il tormento dei minatori. Essere colpiti dal suo Ferrartigli equivale a intossicazione certa.
+[1049_1]
+DESCRIPTION=(Forma Terrestre)\n L'esposizione all'Energia Terrestre sembra aver sortito degli effetti. Scarica i suoi fulmini all'improvviso, avvolto tra le tenebre del suo mantello.
+HEIGHT=0.8
+WEIGHT=21.7
+[1049_2]
+DESCRIPTION=(Forma Xenoverse)\n Sembra risentire anche dell'influsso dell'Energia Blu, divenendo più truce e selvaggio. Lancia terribili tuoni neri dalla criniera irta di elettricità.
+HEIGHT=1.7
+WEIGHT=111
+[1053_1]
+DESCRIPTION=(Forma Rush)\n È ricoperto da una sostanza oleosa piccante. Si mimetizza in mezzo alle Bacche aspettando di essere addentato, poi se la ride di gusto.
+[1054_1]
+DESCRIPTION=(Forma Rush)\n La coda è indice della sua temperatura corporea, nonché del suo umore. Quando è infuriato, incendia ogni cosa.
+[1055_1]
+DESCRIPTION=(Forma Rush)\n Questa pila di ciottoli ha preso vita grazie allo spirito combattivo dei paladini del passato che alberga nella spada in essa incastonata.
+[1061_1]
+DESCRIPTION=(Forma Rush)\n Si muove grazie all'energia condivisa dall'intero banco. Pare che, dato l'elevato apporto calorico, i Chubiburny siano la sua preda favorita.
+[1072_1]
+DESCRIPTION=(Forma Rush)\n Si nutre solo di ciò che sottrae ai predatori. Dopo averli scoraggiati col motivo sul piumaggio, si avventa avidamente sul bottino.
+[1077_1]
+DESCRIPTION=(Tinta Rossa)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle città, schernisce con sonore risate chi gli capita a tiro.
+[1077_2]
+DESCRIPTION=(Tinta Gialla)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle città, schernisce con sonore risate chi gli capita a tiro.
+[1077_3]
+DESCRIPTION=(Tinta Blu)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle città, schernisce con sonore risate chi gli capita a tiro.
+[1077_4]
+DESCRIPTION=(Tinta Viola)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle città, schernisce con sonore risate chi gli capita a tiro.
+[1077_5]
+DESCRIPTION=(Tinta Rush)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle giungle, schernisce con sonore risate chi gli capita a tiro.
+[1078_1]
+DESCRIPTION=(Forma Corallo)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Sono rari i casi in cui passa al contrattacco.
+[1078_2]
+DESCRIPTION=(Forma Bronzo)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Ha un vago senso di orgoglio.
+[1078_3]
+DESCRIPTION=(Forma Argento)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Sente di aver ottenuto dei buoni risultati.
+[1078_4]
+DESCRIPTION=(Forma Oro)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Si copre della sua gloria e ne va fiero.
+[1078_5]
+DESCRIPTION=(Forma Super)\n Emana un'aura potentissima e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Non è nemmeno la sua forma finale.
+[1078_6]
+DESCRIPTION=(Forma Alter)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Sono rari i casi in cui passa al contrattacco.
+[1079_1]
+DESCRIPTION=(Forma Agglomeratto)\n Le zone più inquinate delle città brulicano di Chimaooze. Quando è in pericolo, chiama a raccolta tutti i suoi simili per debellare la minaccia.
+HEIGHT=7.8
+WEIGHT=274.8
+[1217_1]
+DESCRIPTION=(Forma Tempesta)\n Pokémon X di indole pacifica. Tuttavia, se s'infuria, si avvolge in nubi temporalesche e scatena violente piogge di fulmini.
+TYPE1=13
+[19_1d]
+DESCRIPTION=(Forma di Alola)\n Rosicchia le porte delle case con le zanne per intrufolarvisi. È in grado di sondare l'aria con i suoi baffi per individuare cibo da rubare.
+HEIGHT=0.3
+WEIGHT=3.8
+TYPE1=17
+TYPE2=0
+[20_1d]
+DESCRIPTION=(Forma di Alola)\n Si circonda di Rattata con cui forma il proprio branco. Nei branchi regna la discordia e spesso sorgono feroci dispute per il cibo.
+HEIGHT=0.7
+WEIGHT=25.5
+TYPE1=17
+TYPE2=0
+[26_1d]
+DESCRIPTION=(Forma di Alola)\n Concentra i suoi poteri psichici nella coda e si sposta su di essa come se scivolasse. È soprannominato “il surfista di terra”.
+HEIGHT=0.7
+WEIGHT=21
+TYPE1=13
+TYPE2=14
+[27_1d]
+DESCRIPTION=(Forma di Alola)\n La pelle rinforzata della schiena è dura come l'acciaio. Per proteggere il ventre molle, si avvinghia al terreno con tutte le forze.
+HEIGHT=0.7
+WEIGHT=40
+TYPE1=15
+TYPE2=8
+[28_1d]
+DESCRIPTION=(Forma di Alola)\n Ha sviluppato degli artigli robusti e affilati per farsi strada fra la neve, in cui ora riesce a correre a gran velocità.
+HEIGHT=29.5
+WEIGHT=55
+TYPE1=15
+TYPE2=8
+[37_1d]
+DESCRIPTION=(Forma di Alola)\n I Vulpix vivono in branco aiutandosi a vicenda. Divorano le prede dopo averle congelate con il loro soffio a -50 C.
+HEIGHT=0.6
+WEIGHT=9.9
+TYPE1=15
+[38_1d]
+DESCRIPTION=(Forma di Alola)\n Colpisce il nemico con una pioggia di cristalli di ghiaccio che genera dal suo manto. Chi lo fa arrabbiare si ritrova congelato all'istante.
+HEIGHT=1.1
+WEIGHT=19.9
+TYPE1=15
+TYPE2=18
+[50_1d]
+DESCRIPTION=(Forma di Alola)\n I peli sulla testa sono dei fili metallici, frutto di una mutazione dei suoi baffi. Comunica coi simili oscillando dolcemente.
+HEIGHT=0.2
+WEIGHT=1
+TYPE1=4
+TYPE2=8
+[51_1d]
+DESCRIPTION=(Forma di Alola)\n Le sue chiome dorate sono in grado di rilevare le vibrazioni di un suono prodotto a diversi chilometri di distanza.
+HEIGHT=33.3
+WEIGHT=66.6
+TYPE1=4
+TYPE2=8
+[74_1d]
+DESCRIPTION=(Forma di Alola)\n La sua testa rocciosa è elettrica e magnetica. Chi lo calpesta accidentalmente viene colpito da una dolorosa scarica.
+HEIGHT=0.4
+WEIGHT=20.3
+TYPE1=5
+TYPE2=13
+[75_1d]
+DESCRIPTION=(Forma di Alola)\n Per effetto delle rocce di cui è ghiotto, il suo corpo è interamente pervaso dall'elettricità. Ha un carattere molto litigioso.
+HEIGHT=1
+WEIGHT=110
+TYPE1=5
+TYPE2=13
+[76_1d]
+DESCRIPTION=(Forma di Alola)\n Spara grosse rocce elettrizzate che propagano tremende scariche elettriche per tutta l'area dell'impatto.
+HEIGHT=1.7
+WEIGHT=316
+TYPE1=5
+TYPE2=13
+[88_1d]
+DESCRIPTION=(Forma di Alola)\n I cristalli sul suo corpo sono grumi di tossine. Se si staccano e cadono a terra, rilasciano un veleno mortale.
+HEIGHT=0.7
+WEIGHT=42
+TYPE1=3
+TYPE2=17
+[89_1d]
+DESCRIPTION=(Forma di Alola)\n Quelli che sembrano denti e artigli sono in realtà tossine cristallizzate che avvelenano al solo contatto. Avvicinarsi è molto pericoloso.
+HEIGHT=1
+WEIGHT=52
+TYPE1=3
+TYPE2=17
+[103_1d]
+DESCRIPTION=(Forma di Alola)\n L'esposizione a intensi raggi solari ha risvegliato l'aspetto e il potere originari di questo Pokémon.
+HEIGHT=10.9
+WEIGHT=415.6
+TYPE1=12
+TYPE2=16
+[105_1d]
+DESCRIPTION=(Forma di Alola)\n Quando colpisce con il suo osso, appicca un fuoco maledetto che continuerà a bruciare in eterno per quanta acqua ci si versi sopra.
+HEIGHT=1
+WEIGHT=34
+TYPE1=10
+TYPE2=7
+[1207_0f]
+TYPE1=18
+TYPE2=18
+[1041_1d]
+DESCRIPTION=(Forma di Alola)\n È stato introdotto da un'altra regione grazie a una fiorente famiglia reale dell'antichità. È egoista e molto orgoglioso.
+TYPE1=17
+TYPE2=17
+[1042_1d]
+DESCRIPTION=(Forma di Alola)\n Nonostante il muso grazioso, ha un’indole crudele. Si diverte a giocare con le prede indebolite senza dar loro il colpo di grazia.
+HEIGHT=1.1
+WEIGHT=33
+TYPE1=17
+TYPE2=17
+[3_1]
+DESCRIPTION=(MegaEvoluzione)\n Le zampe si sono irrobustite per sostenere il fiore sul dorso, diventato ancora più grande per via della megaevoluzione.
+HEIGHT=2.4
+WEIGHT=155.5
+[6_1]
+DESCRIPTION=(MegaEvoluzione)\n Il legame con il suo Allenatore è la fonte del suo potere. Vanta una velocità di volo superiore a quella di un aereo a reazione.
+HEIGHT=1.7
+WEIGHT=100.5
+[6_2]
+DESCRIPTION=(MegaEvoluzione)\n La straordinaria potenza che pervade il suo corpo lo rende ancora più scuro e genera roventi fiamme che si colorano di blu.
+HEIGHT=1.7
+WEIGHT=110.5
+TYPE1=10
+TYPE2=16
+[9_1]
+DESCRIPTION=(MegaEvoluzione)\n Grazie alle sue possenti zampe può sostenere i contraccolpi del cannone sul guscio, che ha una potenza simile a quella di un carrarmato.
+WEIGHT=101.1
+[2026_1]
+DESCRIPTION=(Simbolo Xenoverse)\n Il loro aspetto ricorda il simbolo nella bocca di Dragalisk, per questo i Cardinali li considerano profani da tempi immemori.
+[243_2]
+DESCRIPTION=(MegaEvoluzione)\n Il potere della MegaEvoluzione ha reso Raikou ancora più solenne. La sua criniera squarcia l'aria come un fulmine.
+HEIGHT=2.5
+WEIGHT=253
+[244_2]
+DESCRIPTION=(MegaEvoluzione)\n Il potere della MegaEvoluzione ha reso Entei ancora più possente. La sua criniera arde come un vulcano attivo.
+HEIGHT=2.4
+WEIGHT=210
+[531_1]
+DESCRIPTION=(MegaEvoluzione)\n Questo Pokémon dal cuore tenero è in grado di percepire le condizioni fisiche e mentali di chi tocca con le antenne.
+Height=15
+Weight=320
+[252_2]
+DESCRIPTION=(Stile Lampecko)\n Treecko e' dotato di piccoli uncini sulla pianta delle zampe, che gli consentono di camminare su pareti verticali.
+[253_2]
+DESCRIPTION=(Stile Lampecko)\n Le foglie che crescono sul corpo di Grovyle sono utili per mimetizzarsi contro i nemici nella foresta.
+[254_2]
+DESCRIPTION=(Stile Lampecko)\n Sulla schiena di Sceptile crescono alcuni semi che si dice siano ricchi di nutrienti per gli alberi.
+[254_1]
+DESCRIPTION=(MegaEvoluzione)\n Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.
+TYPE1=12
+TYPE2=16
+Height=19
+Weight=552
+[245_2]
+DESCRIPTION=(MegaEvoluzione)\n Il potere della MegaEvoluzione ha reso Suicune ancora più maestoso. La sua criniera risplende dei colori dell'aurora boreale.
+HEIGHT=2
+WEIGHT=200
+[470_1]
+DESCRIPTION=(Stile Lucente)\n Le sue cellule hanno caratteristiche molto simili a quelle dei vegetali. Può ricavare energia vitale tramite fotosintesi.
+[471_1]
+DESCRIPTION=(Stile Splendente)\n In un istante congela l'umidità circostante e crea granelli di ghiaccio che scaglia sulla preda.
+[448_1]
+DESCRIPTION=(Stile Platino)\n Riesce a leggere i pensieri e i movimenti del nemico decifrando l’aura che questo emette.
+[182_1]
+DESCRIPTION=(MegaEvoluzione)\n Danza in continuazione davanti ad allenatori ammaliati dalla sua bravura, mentre cerca di far diminuire il dolore delle fiamme.
+TYPE1=12
+TYPE2=10
+[275_1]
+DESCRIPTION=(MegaEvoluzione)\n La megaevoluzione ha tramutato le sue braccia in ali. Le agita furiosamente non essendo più in grado di muoverle come vuole.
+TYPE1=2
+TYPE2=17
+[2031_1]
+DESCRIPTION=È in grado di produrre scariche elettriche fino a 15.000 volt. Tende a sottovalutare qualunque nemico si trovi davanti.
+[303_1]
+DESCRIPTION=(MegaEvoluzione)\n Le due bocche si agitano furiosamente come se avessero volontà propria. Possono sbriciolare una roccia con un solo morso.
+HEIGHT=1.0
+WEIGHT=23.5
+[359_1]
+DESCRIPTION=(MegaEvoluzione)\n L’indole pacifica di questo Pokémon lo porta a detestare questa sua forma, che è perfetta per la lotta.
+HEIGHT=1.2
+WEIGHT=490.
+[248_1]
+DESCRIPTION=(MegaEvoluzione)\n Sulla schiena gli si è aperto uno squarcio per l’enorme energia liberata dalla megaevoluzione. Agisce spinto solo da un istinto di distruzione.
+HEIGHT=2.5
+WEIGHT=255.0
+[214_1]
+DESCRIPTION=(MegaEvoluzione)\n La formidabile energia della megaevoluzione fa sviluppare i suoi muscoli, ma quando torna al suo stato normale è tutto indolenzito.
+HEIGHT=1.7
+WEIGHT=62.5
+[65_1]
+DESCRIPTION=(MegaEvoluzione)\n La megaevoluzione ha sprigionato la sua vera potenza a scapito dei muscoli. Grazie ai suoi poteri psichici può conoscere ogni cosa.
+HEIGHT=1.2
+[405_1]
+DESCRIPTION=(MegaEvoluzione)\n L'energia elettrica in eccesso sviluppata dalla megaevoluzione fuoriesce dalle zampe, permettendogli di levitare.
+HEIGHT=1.6
+[620_1]
+DESCRIPTION=(MegaEvoluzione)\n La megaevoluzione ha trasformato i peli degli arti in cuscinetti ripieni d'acqua. Li utilizza per deviare i colpi danzando.
+TYPE2=11
+HEIGHT=1.6
+WEIGHT=45.5
+[445_1]
+DESCRIPTION=(MegaEvoluzione)\n Con l’evoluzione, le sue ali si sono fuse con le braccia, tramutandole in falci. Pazzo d’ira, si sfoga scatenando tutta la sua furia.
+[212_1]
+DESCRIPTION=(MegaEvoluzione)\n Con la megaevoluzione accumula un’enorme quantità di energia. Se passa troppo tempo in questo stato, comincia a fondere.
+HEIGHT=2.0
+WEIGHT=125.0
+[448_2]
+DESCRIPTION=(MegaEvoluzione)\n Con la megaevoluzione, la sua aura si è espansa. Segue ciecamente il suo istinto guerriero e si getta sul nemico attaccando implacabile.
+HEIGHT=1.3
+WEIGHT=57.5
+[399_1]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_2]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_3]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_4]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_5]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_6]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_7]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_8]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_9]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_10]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_11]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_12]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_13]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_14]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_15]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_16]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_17]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[399_18]
+DESCRIPTION=(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+[58_1]
+KIND=Esplorante
+DESCRIPTION=(Forma di Hisui)\n Pattugliano il territorio in coppia. La presenza di componenti di rocce ignee nel loro vello parrebbe cagionata dall'attività vulcanica.
+TYPE1=10
+TYPE2=5
+[1_10]
+DESCRIPTION=(Stile Swap)\n Alla nascita gli è stato piantato sulla schiena un seme raro. La pianta sboccia e cresce con lui.
+TYPE1=10
+TYPE2=3
+[2_10]
+DESCRIPTION=(Stile Swap)\n Quando il bocciolo che ha sul dorso si gonfia, emana un dolce profumo. È indice dell'imminente fioritura.
+TYPE1=10
+TYPE2=3
+[3_10]
+DESCRIPTION=(Stile Swap)\n Si riempie di energia grazie ai grandi petali del fiore, che spalanca catturando i raggi solari.
+TYPE1=10
+TYPE2=3
+[4_10]
+DESCRIPTION=(Stile Swap)\n La fiamma sulla punta della coda indica la sua vitalità. Se sta bene, la fiamma è più ardente.
+TYPE1=11
+[5_10]
+DESCRIPTION=(Stile Swap)\n Ha un’indole spietata. Durante la lotta frusta con la forte coda e taglia con artigli affilati.
+TYPE1=11
+[6_10]
+DESCRIPTION=(Stile Swap)\n Quando emette le sue lingue di fuoco, la fiamma rossa sulla punta della coda brucia più intensamente.
+TYPE1=11
+TYPE2=2
+[7_10]
+DESCRIPTION=(Stile Swap)\n Si ritira nel suo guscio e, alla prima occasione, contrattacca colpendo il nemico con spruzzi d'acqua.
+TYPE1=12
+[8_10]
+DESCRIPTION=(Stile Swap)\n Controlla abilmente le orecchie e la coda coperte di pelo, mantenendo l’equilibrio mentre nuota.
+TYPE1=12
+[9_10]
+DESCRIPTION=(Stile Swap)\n I getti d'acqua lanciati dai cannoni sul suo guscio riescono a perforare persino l'acciaio.
+TYPE1=12
+[25_1]
+TYPE2=2
+[25_2]
+TYPE2=11
+[59_1]
+DESCRIPTION=(Forma di Hisui)\n Stringe le prede con le zanne avviluppate in rovente foco. Eccelle nelle finte nonostante la considerevole stazza.
+TYPE1=10
+TYPE2=5
+[351_1]
+TYPE1=10
+TYPE2=10
+[351_2]
+TYPE1=11
+TYPE2=11
+[351_3]
+TYPE1=15
+TYPE2=15
+[1051_1]
+DESCRIPTION=(Stile Smoliv)\n Se dissotterrato mentre dorme, emette urla così strazianti da stordire anche un Pokémon di grossa taglia.
+[1052_1]
+DESCRIPTION=(Stile Smoliv)\n Chiacchiera ininterrottamente all'ombra delle sue foglie. Chi, per errore, capta le onde sonore dei suoi fiori-antenna, è costretto a sorbirsi ore di ciance.
+[1043_1]
+DESCRIPTION=(Stile Lechonk)\n Più si muove, più è l'oro che produce dall'ombelico. Dopo una lotta intensa, con gran gioia del suo Allenatore, l'intero campo è pieno di Pepite.
+[1050_1]
+DESCRIPTION=(Stile Pawmi)\n Resiste alle basse temperature grazie alla folta pelliccia. Questa, se strofinata, si carica di elettricità statica e può dare la scossa.
+[1070_1]
+DESCRIPTION=(Stile Koraidon)\n Le gang rivali si contendono il territorio in gare di velocità così rumorose da far allontanare chiunque sia nei paraggi.
+[1070_2]
+DESCRIPTION=(Stile Miraidon)\n Le gang rivali si contendono il territorio in gare di velocità così rumorose da far allontanare chiunque sia nei paraggi.
+[553_1]
+DESCRIPTION=(Stile Ash)\n Vede le cose in lontananza come se avesse dei binocoli. Ha delle mandibole in grado di fare a pezzi un'automobile.
+[658_1]
+DESCRIPTION=(Stile Ash)\n Crea lame d'acqua affilatissime da tirare. Con l'agilità di un ninja, appare e scompare per attaccare nell'ombra.
+[152_1]
+TYPE1=11
+DESCRIPTION=(Stile Swap)\n Usa la foglia sulla sua testa per misurare la temperatura e l'umidità. Ama crogiolarsi al sole.
+[153_1]
+TYPE1=11
+DESCRIPTION=(Stile Swap)\n Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.
+[154_1]
+TYPE1=11
+DESCRIPTION=(Stile Swap)\n Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.
+[155_1]
+TYPE1=12
+DESCRIPTION=(Stile Swap)\n Spesso se ne sta appallottolato giacché timido. Se è attaccato, si difende infuocando il dorso.
+[156_1]
+TYPE1=12
+DESCRIPTION=(Stile Swap)\n Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.
+[157_1]
+TYPE1=12
+DESCRIPTION=(Stile Swap)\n Attacca usando fiamme esplosive. Si cela in una scintillante nube di calore creata dalle fiamme roventi.
+[158_1]
+TYPE1=10
+DESCRIPTION=(Stile Swap)\n Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!
+[159_1]
+TYPE1=10
+DESCRIPTION=(Stile Swap)\n Quando azzanna il nemico, non molla la presa finché non gli cadono le zanne, che però ricrescono subito.
+[160_1]
+TYPE1=10
+DESCRIPTION=(Stile Swap)\n Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.
+[132_1]
+DESCRIPTION=(Stile Halloween)\n Cambia la sua struttura molecolare per assumere le sembianze del nemico. Il grado di riuscita varia a seconda del Pokémon.
+[122_1]
+DESCRIPTION=(Stile Halloween)\n La sua gestualita' e i suoi movimenti convincono l'osservatore dell'esistenza di oggetti invisibili, che saranno percepiti come concreti e reali.
+[94_2]
+DESCRIPTION=(Stile Halloween)\n Si nasconde nell'ombra. Pare che nei luoghi in cui Gengar si cela, la temperatura si abbassi di 5°C.
+[686_1]
+DESCRIPTION=(Stile Mewaii)\n Scambia informazioni con i suoi simili facendo lampeggiare i motivi sul suo corpo in sequenze complesse.
+[264_1]
+DESCRIPTION=(Stile Vortail)\n Quando corre in rettilineo può raggiungere i 100 km/h, ma le curve non sono il suo forte.
+[1004_1]
+DESCRIPTION=(Stile Ozelash)\n Quando si mette a sputare fuoco, il sonaglio infuocato che tiene al collo emette un forte tintinnio.
+[2028_1]
+DESCRIPTION=(Stile Salabel)\n Con la fiamma della coda brucia i fluidi corporei generati dalle sue sacche di veleno, producendo un gas velenoso.
+[178_1]
+DESCRIPTION=(Stile Queccha)\n Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.
+[94_1]
+DESCRIPTION=(MegaEvoluzione)\n Si è risvegliato grazie alla megaevoluzione. Si nasconde in una dimensione parallela aspettando il momento giusto per attaccare.
+[334_1]
+DESCRIPTION=(MegaEvoluzione)\n Quando si affeziona a una persona, la avvolge nelle sue soffici ali e inizia a canticchiare.
+[150_2]
+DESCRIPTION=(MegaEvoluzione)\n I suoi muscoli sono potenziati dai poteri psichici e può percorrere 100 m in due secondi. La sua stretta esercita una pressione di una tonnellata.
+[409_1]
+DESCRIPTION=(MegaEvoluzione)\n Le masse rocciose nel suo corpo si sono espanse al punto da schiacciare gli organi interni, e per questo motivo è impazzito.
+[59_2]
+DESCRIPTION=(MegaEvoluzione)\n L'energia della MegaEvoluzione ha reso il suo corpo un tizzone ardente che lo rende potentissimo, ma finirà per diventare cenere.
+[282_1]
+DESCRIPTION=(MegaEvoluzione)\n Per proteggere l’Allenatrice o l’Allenatore dal pericolo, utilizza tutti i poteri psichici di cui dispone per creare un piccolo buco nero.
+[157_2]
+TYPE2=7
+DESCRIPTION=(Forma di Hisui)\n Si dice mondi le anime smarrite con le proprie vampe per condurle verso l'aldilà.

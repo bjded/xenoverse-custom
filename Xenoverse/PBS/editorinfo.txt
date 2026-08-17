@@ -1,0 +1,5 @@
+[POKEDEXES]
+pokedex1=Eldiw
+pokedex2=Xenoverse
+pokedex3=Retrò
+

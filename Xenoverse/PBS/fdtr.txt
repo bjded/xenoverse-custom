@@ -1,0 +1,575 @@
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n È stato introdotto da un'altra regione grazie a una fiorente famiglia reale dell'antichità. È egoista e molto orgoglioso.
+(Alolan Meowth)\n A royal house that flourished in the distant past brought it here from another region. Meowth is both selfish and prideful.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Le sue chiome dorate sono in grado di rilevare le vibrazioni di un suono prodotto a diversi chilometri di distanza.
+(Alolan Dugtrio)\n Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Suonoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Sound Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Litoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Rock Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Spara grosse rocce elettrizzate che propagano tremende scariche elettriche per tutta l'area dell'impatto.
+(Alolan Golem)\n It shoots large rocks that are charged with electricity. Tremendous electric shocks are flung out across the whole area of impact.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Psicoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Psychic Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+
+
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n La pelle rinforzata della schiena è dura come l'acciaio. Per proteggere il ventre molle, si avvinghia al terreno con tutte le forze.
+(Alolan Sandshrew)\n The skin on its back is as hard as steel. Predators go after its soft belly, so it clings to the ground desperately.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Dracoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Dragon Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Spettroveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Ghost Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Concentra i suoi poteri psichici nella coda e si sposta su di essa come se scivolasse. È soprannominato “il surfista di terra”.
+(Alolan Raichu)\n It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pokémon is ''hodad''.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Rosicchia le porte delle case con le zanne per intrufolarvisi. È in grado di sondare l'aria con i suoi baffi per individuare cibo da rubare.
+(Alolan Rattata)\n With its incisors, it gnaws through doors and infiltrates people's homes. Then, with a twitch of its whiskers, it steals whatever food it finds.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Chitarrista)\n Si ritiene che rappresenti la musica in tutte le sue forme. Pizzicando i grandi baffi, realizza assoli così elettrizzanti da far rizzare il pelo. 
+(Guitarist)\n It is said this Pokémon represents the soul of music. The electrifying solos it plays with its big whiskers will make your hair stand on end. 
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Geloveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Ice Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Terrestre)\n L'esposizione all'Energia Terrestre sembra aver sortito degli effetti. Scarica i suoi fulmini all'improvviso, avvolto tra le tenebre del suo mantello.
+(Terrestrial Form)\n It looks like the Red Energy had somehow affected this Pokémon. Wrapped in the darkness of its cloak, it shoots thunderbolts all of sudden.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Percussionista)\n Si ritiene che rappresenti la musica in tutte le sue forme. Percuotendosi il petto con le bacchette, dà la carica a sé stesso e ai compagni. 
+(Drummer)\n It is said this Pokémon represents the soul of music. Thumping its chest with two drumsticks, it boost the morale to anyone who's listening. 
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Fataveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Fairy Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n I peli sulla testa sono dei fili metallici, frutto di una mutazione dei suoi baffi. Comunica coi simili oscillando dolcemente.
+(Alolan Diglett)\n Its head sports an altered form of whiskers made of metal. When in communication with its comrades, its whiskers wobble to and fro.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Ha sviluppato degli artigli robusti e affilati per farsi strada fra la neve, in cui ora riesce a correre a gran velocità.
+(Alolan Sandslash)\n It runs across snow-covered plains at high speeds. It developed thick, sharp claws to plow through the snow.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Xenoverse)\n Sembra risentire anche dell'influsso dell'Energia Blu, divenendo più truce e selvaggio. Lancia terribili tuoni neri dalla criniera irta di elettricità.
+(Xenoversal Form)\n It appears to be affected by the Blue Energy too, becoming fierce and savage. It fires immense dark lighting bolts from its mane charged with electricity.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Bassista)\n Si ritiene che rappresenti la musica in tutte le sue forme. Strimpella la sua coda tranquillo, ma talvolta può sorprendere con dei groove energici.
+(Bassist)\n It is said this Pokémon represents the soul of music. It quietly strims its tail, but occasionally it can play unexpectedly energetic grooves.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Scuroveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Dark Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+Maschera
+Mask
+(Forma Terrestre)\n L'Energia Rossa ha acuito la sua capacità di mimetizzarsi. Nel suo habitat è praticamente impossibile da individuare.
+(Terrestrial Form)\n The Red Energy enhanced its ability to camouflage. It is almost impossible to detect Shyleon in its habitat.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Quelli che sembrano denti e artigli sono in realtà tossine cristallizzate che avvelenano al solo contatto. Avvicinarsi è molto pericoloso.
+(Alolan Muk)\n What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don't get too close.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Colpisce il nemico con una pioggia di cristalli di ghiaccio che genera dal suo manto. Chi lo fa arrabbiare si ritrova congelato all'istante.
+(Alolan Ninetales)\n It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Tinta Rossa)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle città, schernisce con sonore risate chi gli capita a tiro.
+(Red Paint)\n It's not graffiti...that's a Pokémon! It mixes up on city walls and mocks on anyone else who comes its way.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Normoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Normal Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Tuonoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Electric Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+Urlocertola
+Shout Lizard
+(Forma Terrestre)\n È divenuto più combattivo grazie all'Energia Terrestre. In lotta si scatena con fiamme roventi che sprigiona dal corno.
+(Terrestrial Form)\n It has become more competitive thanks\n to the Red Energy. It goes wild during battle, releasing scorching flames from its horn.
+Maschera
+Mask
+(Forma Xenoverse)\n Ha acquisito poteri magici assorbendo l'Energia Blu. Un'antica civiltà del passato lo venerava come una divinità.
+(Xenoversal Form)\n It acquired magic powers after absorbing the Blue Energy. It was revered as a deity by an ancient civilization.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Manto Shyleon)\n Soffre molto la solitudine e per poter avvicinare gli esseri umani e gli altri Pokémon, cela il suo tremendo aspetto sotto a un panno.
+(Shyleon Disguise)\n A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n I cristalli sul suo corpo sono grumi di tossine. Se si staccano e cadono a terra, rilasciano un veleno mortale.
+(Alolan Grimer)\n The crystals on Grimer's body are lumps of toxins. If one falls off, lethal poisons leak out.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n I Vulpix vivono in branco aiutandosi a vicenda. Divorano le prede dopo averle congelate con il loro soffio a -50 C.
+(Alolan Vulpix)\n They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their –58 °F breath.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Tempesta)\n Pokémon X di indole pacifica. Tuttavia, se s'infuria, si avvolge in nubi temporalesche e scatena violente piogge di fulmini.
+(Storm Mode)\n A peaceful tempered X Pokémon.\n However, if it gets furious, it wraps itself in thunderclouds and triggers raging lightning storms.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Tinta Gialla)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle città, schernisce con sonore risate chi gli capita a tiro.
+(Yellow Paint)\n It's not graffiti...that's a Pokémon! It mixes up on city walls and mocks on anyone else who comes its way.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Fieleveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Poison Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Pugnoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Fighting Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+Dragoblu
+Sea Dragon
+(Forma Terrestre)\n L'energia del Pianeta Terra gli ha mutato la pelle in una coriacea armatura. Ad ogni ferita si rialza più forte.
+(Terrestrial Form)\n The energy of Planet Earth has turned its skin into a coriaceous armor. After every wound, it comes back harder.
+Urlocertola
+Shout Lizard
+(Forma Xenoverse)\n L'Energia Blu gli ha conferito un potere esplosivo incontenibile. Espellendo aria dai fori sul corpo, accresce l'intensità dei propri boati.
+(Xenoversal Form)\n The Blue Energy has given it an overwhelming explosive power. It ejects air from the ports on its body to boost its fiery roars.
+Novastella
+New Star
+(Forma Astro)\n Il reale aspetto di Shyleon. In tempi antichissimi, combatté coi suoi fratelli al fianco di Luxflon per scongiurare il Caos nell'universo.
+(Astral Form)\n Shyleon's real form. In ancient times, it fought with its brothers alongside Luxflon to defeat the Chaos throughout the universe.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Manto Trishout)\n Soffre molto la solitudine e per poter avvicinare gli esseri umani e gli altri Pokémon, cela il suo tremendo aspetto sotto a un panno.
+(Trishout Disguise)\n A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n L'esposizione a intensi raggi solari ha risvegliato l'aspetto e il potere originari di questo Pokémon.
+(Alolan Exeggutor)\n Blazing sunlight has brought out the true form and powers of this Pokémon.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Agglomeratto)\n Le zone più inquinate delle città brulicano di Chimaooze. Quando è in pericolo, chiama a raccolta tutti i suoi simili per debellare la minaccia.
+(Monster Form)\n The most polluted aeras of cities are infested by Chimaooze. When they senses danger, they team up together to eliminate the threat.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Tinta Blu)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle città, schernisce con sonore risate chi gli capita a tiro.
+(Blue Paint)\n It's not graffiti...that's a Pokémon! It mixes up on city walls and mocks on anyone else who comes its way.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Geoveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Ground Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Voloveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Flying Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+Dragoblu
+Sea Dragon
+(Forma Xenoverse)\n L'esposizione all'Energia Blu lo ha reso aggressivo e territoriale. Niente e nessuno può tenergli testa in una lotta subacquea.
+(Xenoversal Form)\n Blue Energy has made it vicious and territorial. No one is able to take on it underwater.
+Novastella
+New Star
+(Forma Astro)\n Il reale aspetto di Trishout. In tempi antichissimi, combatté coi suoi fratelli al fianco di Luxflon per scongiurare il Caos nell'universo.
+(Astral Form)\n Trishout's real form. In ancient times, it fought with its brothers alongside Luxflon to defeat the Chaos throughout the universe.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Manto Shulong)\n Soffre molto la solitudine e per poter avvicinare gli esseri umani e gli altri Pokémon, cela il suo tremendo aspetto sotto a un panno.
+(Shulong Disguise)\n A lonely Pokémon, it conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Per effetto delle rocce di cui è ghiotto, il suo corpo è interamente pervaso dall'elettricità. Ha un carattere molto litigioso.
+(Alolan Graveler)\n Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Si circonda di Rattata con cui forma il proprio branco. Nei branchi regna la discordia e spesso sorgono feroci dispute per il cibo.
+(Alolan Raticate)\n It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputes over food happen often.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Tinta Viola)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle città, schernisce con sonore risate chi gli capita a tiro.
+(Purple Paint)\n It's not graffiti...that's a Pokémon! It mixes up on city walls and mocks on anyone else who comes its way.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Ferroveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Steel Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Erboveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Grass Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+Novastella
+New Star
+(Forma Astro)\n Il reale aspetto di Shulong. In tempi antichissimi, combatté coi suoi fratelli al fianco di Luxflon per scongiurare il Caos nell'universo.
+(Astral Form)\n Shulong's real form. In ancient times, it fought with its brothers alongside Luxflon to defeat the Chaos throughout the universe.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Nonostante il muso grazioso, ha un’indole crudele. Si diverte a giocare con le prede indebolite senza dar loro il colpo di grazia.
+(Alolan Persian)\n In contrast to its lovely face, it's so brutal that it tortures its weakened prey rather than finishing them off.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n Quando colpisce con il suo osso, appicca un fuoco maledetto che continuerà a bruciare in eterno per quanta acqua ci si versi sopra.
+(Alolan Marowak)\n When it beats opponents with its bone, the cursed flames spread to them. No amount of water will stop those flames from burning.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Alola)\n La sua testa rocciosa è elettrica e magnetica. Chi lo calpesta accidentalmente viene colpito da una dolorosa scarica.
+(Alolan Geodude)\n Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you'll be in for a painful shock.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Idroveste)\n Si difende dai predatori camuffandosi da Pokémon più grosso. È molto popolare tra i collezionisti di Coleotteri.
+(Water Style)\n It defends from predators assuming the form of a bigger Pokémon. It is very popular among Bug Maniacs.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Le zampe si sono irrobustite per sostenere il fiore sul dorso, diventato ancora più grande per via della megaevoluzione.
+(MegaEvolution)\n In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Il legame con il suo Allenatore è la fonte del suo potere. Vanta una velocità di volo superiore a quella di un aereo a reazione.
+(MegaEvolution)\n Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n La straordinaria potenza che pervade il suo corpo lo rende ancora più scuro e genera roventi fiamme che si colorano di blu.
+(MegaEvolution)\n The overwhelming power that fills its entire body causes it to turn black and creates intense blue flames.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Grazie alle sue possenti zampe può sostenere i contraccolpi del cannone sul guscio, che ha una potenza simile a quella di un carrarmato.
+(MegaEvolution)\n The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Simbolo Xenoverse)\n Il loro aspetto ricorda il simbolo nella bocca di Dragalisk, per questo i Cardinali li considerano profani da tempi immemori.
+(Xenoverse Symbol)\n Their appearance reminds of the symbol on Dragalisk's mouth, thus the Cardinals consider their semblance as profane from ancient times.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Il potere della MegaEvoluzione ha reso Raikou ancora più solenne. La sua criniera squarcia l'aria come un fulmine.
+(MegaEvolution)\n The power of Mega Evolution has made Raikou even more solemn. Its mane rips through the air like lightning.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Il potere della MegaEvoluzione ha reso Entei ancora più possente. La sua criniera arde come un vulcano attivo.
+(MegaEvolution)\n The power of Mega Evolution has made Entei even more powerful. Its mane burns like an active volcano.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Il potere della MegaEvoluzione ha reso Suicune ancora più maestoso. La sua criniera risplende dei colori dell'aurora boreale.
+(MegaEvolution)\n The power of Mega Evolution has made Suicune more majestic. Its mane glows with the colors of the Aurora Borealis.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Rush)\n È il tormento dei minatori. Essere colpiti dal suo Ferrartigli equivale a intossicazione certa.
+(Rush Form)\n It is a real miners' nightmare. A single touch of its metal claws and you will be badly intoxicated.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Rush)\n È ricoperto da una sostanza oleosa piccante. Si mimetizza in mezzo alle Bacche aspettando di essere addentato, poi se la ride di gusto.
+(Rush Form)\n It is coated with a oily, spicy substance. Pretending to be a Berry, it waits for someone to bite it. Then it laughs out loud on its own joke.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Rush)\n La coda è indice della sua temperatura corporea, nonché del suo umore. Quando è infuriato, incendia ogni cosa.
+(Rush Form)\n The color of its tail is indicative of its body temperature and its actual mood. If it rampages, it will burn everything down.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Rush)\n Questa pila di ciottoli ha preso vita grazie allo spirito combattivo dei paladini del passato che alberga nella spada in essa incastonata.
+(Rush Form)\n This rock pile came to life thanks to the combative spirit of past paladins that inhabited the sword wedged in it.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Rush)\n Si muove grazie all'energia condivisa dall'intero banco. Pare che, dato l'elevato apporto calorico, i Chubiburny siano la sua preda favorita.
+(Rush Form)\n They swim around thanks to the energy\n they share with the whole shoal. Due to its high calorie value, Chubiburny is known to be their favorite prey.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Rush)\n Si nutre solo di ciò che sottrae ai predatori. Dopo averli scoraggiati col motivo sul piumaggio, si avventa avidamente sul bottino.
+(Rush Form)\n It feeds merely on what it steals from predators. First it deters them with the skull-like pattern, then digs into its target.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Tinta Rush)\n Quello che sembra un graffito è in realtà un Pokémon. Mimetizzato sui muri delle giungle, schernisce con sonore risate chi gli capita a tiro.
+(Rush Paint)\n It's not graffiti...that's a Pokémon! It mixes up on jungle walls and mocks on anyone else who comes its way.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Corallo)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Sono rari i casi in cui passa al contrattacco.
+(Coral Form)\n This very shy Pokémon rarely counterattacks. When in danger, it withdraws in its shell as hard as steel.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Bronzo)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Ha un vago senso di orgoglio.
+(Bronze Form)\n This Pokémon has a vague sense of pride. When in danger, it withdraws in its shell as hard as steel.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Argento)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Sente di aver ottenuto dei buoni risultati.
+(Rush Form)\n This Pokémon feels he's obtained good results. When in danger, it withdraws in its shell as hard as steel.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Oro)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Si copre della sua gloria e ne va fiero.
+(Rush Form)\n This Pokémon bathes in its glory and it's proud of it. When in danger, it withdraws in its shell as hard as steel.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Super)\n Emana un'aura potentissima e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Non è nemmeno la sua forma finale.
+(Rush Form)\n This Pokémon emanates a real powerful aura. When in danger, it withdraws in its shell as hard as steel. It's not even its final form.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Lucente)\n Le sue cellule hanno caratteristiche molto simili a quelle dei vegetali. Può ricavare energia vitale tramite fotosintesi.
+(Brilliant Style)\n Its cellular composition is closer to that of a plant than an animal. It uses photosynthesis to produce its energy supply without eating food.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Splendente)\n In un istante congela l'umidità circostante e crea granelli di ghiaccio che scaglia sulla preda.
+(Shining Style)\n It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Platino)\n Riesce a leggere i pensieri e i movimenti del nemico decifrando l’aura che questo emette.
+(Platinum Style)\n By catching the Aura emanating from others, it can read their thoughts and movements.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Danza in continuazione davanti ad allenatori ammaliati dalla sua bravura, mentre cerca di far diminuire il dolore delle fiamme.
+(MegaEvolution)\n It dances continously in front of trainers bewitched by it's skill, while it tries to decrease the pain from the flames.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n La megaevoluzione ha tramutato le sue braccia in ali. Le agita furiosamente non essendo più in grado di muoverle come vuole.
+(MegaEvolution)\n The power of Mega Evolution has transformed its arms in wings. It shakes them furiously as it's not able to move them as it wishes.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+È in grado di produrre scariche elettriche fino a 15.000 volt. Tende a sottovalutare qualunque nemico si trovi davanti.
+Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Le due bocche si agitano furiosamente come se avessero volontà propria. Possono sbriciolare una roccia con un solo morso.
+(MegaEvolution)\n Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n L’indole pacifica di questo Pokémon lo porta a detestare questa sua forma, che è perfetta per la lotta.
+(MegaEvolution)\n Normally, it dislikes fighting, so it really hates changing to this form for battles.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Leggende)\n Rosicchia continuamente legno e rocce per affilare i denti anteriori. Nidifica vicino all'acqua.
+(Legends Style)\n It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.
+Esplorante
+Scout
+(Forma di Hisui)\n Pattugliano il territorio in coppia. La presenza di componenti di rocce ignee nel loro vello parrebbe cagionata dall'attività vulcanica.
+(Hisui Form)\n They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Alla nascita gli è stato piantato sulla schiena un seme raro. La pianta sboccia e cresce con lui.
+(Swap Style)\n A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Quando il bocciolo che ha sul dorso si gonfia, emana un dolce profumo. È indice dell'imminente fioritura.
+(Swap Style)\n When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Si riempie di energia grazie ai grandi petali del fiore, che spalanca catturando i raggi solari.
+(Swap Style)\n By spreading the broad petals of its flower and catching the sun's rays,\n it fills its body with power.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n La fiamma sulla punta della coda indica la sua vitalità. Se sta bene, la fiamma è più ardente.
+(Swap Style)\n The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Ha un’indole spietata. Durante la lotta frusta con la forte coda e taglia con artigli affilati.
+(Swap Style)\n It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Quando emette le sue lingue di fuoco, la fiamma rossa sulla punta della coda brucia più intensamente.
+(Swap Style)\n By When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Si ritira nel suo guscio e, alla prima occasione, contrattacca colpendo il nemico con spruzzi d'acqua.
+(Swap Style)\n It shelters itself in its shell, then strikes back with spouts of water at every opportunity.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Controlla abilmente le orecchie e la coda coperte di pelo, mantenendo l’equilibrio mentre nuota.
+(Swap Style)\n It cleverly controls its furry ears and tail to maintain its balance while swimming.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n I getti d'acqua lanciati dai cannoni sul suo guscio riescono a perforare persino l'acciaio.
+(Swap Style)\n By The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Hisui)\n Stringe le prede con le zanne avviluppate in rovente foco. Eccelle nelle finte nonostante la considerevole stazza.
+(Hisui Form)\n Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n L'energia elettrica in eccesso sviluppata dalla megaevoluzione fuoriesce dalle zampe, permettendogli di levitare.
+(MegaEvolution)\n The overflowing electric energy developed with the megaevolution comes out from its paws, allowing it to levitate.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n La megaevoluzione ha trasformato i peli degli arti in cuscinetti ripieni d'acqua. Li utilizza per deviare i colpi danzando.
+(MegaEvolution)\n The megaevolution transformed the hairs on its arms in pads full of water. It uses them to deflect blows while dancing.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma Alter)\n È timidissimo e al minimo pericolo si ritrae nel guscio duro come l'acciaio. Sono rari i casi in cui passa al contrattacco.
+(Alter Form)\n This very shy Pokémon rarely counterattacks. When in danger, it withdraws in its shell as hard as steel.
+#TYRANITAR
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Sulla schiena gli si è aperto uno squarcio per l’enorme energia liberata dalla megaevoluzione. Agisce spinto solo da un istinto di distruzione.
+(MegaEvolution)\n Due to the colossal power poured into it, this Pokémon's back split right open. Its destructive instincts are the only thing keeping it moving.
+#ALAKAZAM
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n La megaevoluzione ha sprigionato la sua vera potenza a scapito dei muscoli. Grazie ai suoi poteri psichici può conoscere ogni cosa.
+(MegaEvolution)\n Having traded away its muscles, Alakazam's true power has been unleashed. With its psychic powers, it can foresee all things.
+#SCIZOR
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Con la megaevoluzione accumula un’enorme quantità di energia. Se passa troppo tempo in questo stato, comincia a fondere.
+(MegaEvolution)\n It stores the excess energy from Mega Evolution, so after a long time passes, its body starts to melt.
+#HERACROSS
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n La formidabile energia della megaevoluzione fa sviluppare i suoi muscoli, ma quando torna al suo stato normale è tutto indolenzito.
+(MegaEvolution)\n A tremendous influx of energy builds it up, but when Mega Evolution ends, Heracross is bothered by terrible soreness in its muscles.
+#GARCHOMP
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Con l’evoluzione, le sue ali si sono fuse con le braccia, tramutandole in falci. Pazzo d’ira, si sfoga scatenando tutta la sua furia.
+(MegaEvolution)\n Its arms and wings melted into something like scythes. Mad with rage, it rampages on and on.
+#LUCARIO
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Con la megaevoluzione, la sua aura si è espansa. Segue ciecamente il suo istinto guerriero e si getta sul nemico attaccando implacabile.
+(MegaEvolution)\n Its aura has expanded due to Mega Evolution. Governed only by its combative instincts, it strikes enemies without mercy.
+#HYSTEARIC
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Smoliv)\n Se dissotterrato mentre dorme, emette urla così strazianti da stordire anche un Pokémon di grossa taglia.
+(Smoliv Style)\n If someone tries to yank them out of the ground while they're sleeping, these Pokémon will shriek out loud making even large size Pokémon dizzy.
+#WYSTEARIA
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Smoliv)\n Chiacchiera ininterrottamente all'ombra delle sue foglie. Chi, per errore, capta le onde sonore dei suoi fiori-antenna, è costretto a sorbirsi ore di ciance.
+(Smoliv Style)\n It chatters non-stop in the shade of its foliage. It keeps doing that even if no one is listening.
+#KOINKOIN
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Lechonk)\n Più si muove, più è l'oro che produce dall'ombelico. Dopo una lotta intensa, con gran gioia del suo Allenatore, l'intero campo è pieno di Pepite.
+(Lechonk Style)\n The more it moves, the more is the gold it drops from its navel. After an intense struggle, its Trainer will make plenty of Nuggets.
+#GACHIGACHOO
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Pawmi)\n Resiste alle basse temperature grazie alla folta pelliccia. Questa, se strofinata, si carica di elettricità statica e può dare la scossa.
+(Pawmi Style)\n It withstands low temperatures thanks to its thick fur coat. If you rub that, it will charge with static electricity and electrocute.
+#SKRAVROOM K
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Koraidon)\n Le gang rivali si contendono il territorio in gare di velocità così rumorose da far allontanare chiunque sia nei paraggi.
+(Koraidon Style)\n Rival gangs compete for territories in really noisy speed races that make anyone around run away.
+#SKRAVROOM M
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Miraidon)\n Le gang rivali si contendono il territorio in gare di velocità così rumorose da far allontanare chiunque sia nei paraggi.
+(Miraidon Style)\n Rival gangs compete for territories in really noisy speed races that make anyone around run away.
+#KROOKODILE ASH
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Ash)\n Vede le cose in lontananza come se avesse dei binocoli. Ha delle mandibole in grado di fare a pezzi un'automobile.
+(Ash Style)\n Krookodile can see faraway objects as if through binoculars. Its jaws are strong enough to crush a car.
+#GRENINJA ASH
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Ash)\n Crea lame d'acqua affilatissime da tirare. Con l'agilità di un ninja, appare e scompare per attaccare nell'ombra.
+(Ash Style)\n It compresses water into sharp-edged throwing stars. With the grace of a ninja, it slips in and out of sight to attack from the shadows.
+#SWAP_FORMS_JOHTO
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Usa la foglia sulla sua testa per misurare la temperatura e l'umidità. Ama crogiolarsi al sole.
+(Swap Style)\n It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.
+(Swap Style)\n The buds that ring its neck give off a spicy aroma that perks people up.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.
+(Swap Style)\n Its breath has the fantastic ability to revive dead plants and flowers.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Spesso se ne sta appallottolato giacché timido. Se è attaccato, si difende infuocando il dorso.
+(Swap Style)\n It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.
+(Swap Style)\n It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Attacca usando fiamme esplosive. Si cela in una scintillante nube di calore creata dalle fiamme roventi.
+(Swap Style)\n It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!
+(Swap Style)\n It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Quando azzanna il nemico, non molla la presa finché non gli cadono le zanne, che però ricrescono subito.
+(Swap Style)\n Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Swap)\n Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.
+(Swap Style)\n When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Halloween)\n Cambia la sua struttura molecolare per assumere le sembianze del nemico. Il grado di riuscita varia a seconda del Pokémon.
+(Halloween Style)\n It can reorganize its cells to make itself into a duplicate of anything it sees. The quality of the duplicate depends on the individual.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Halloween)\n La sua gestualita' e i suoi movimenti convincono l'osservatore dell'esistenza di oggetti invisibili, che saranno percepiti come concreti e reali.
+(Halloween Style)\n Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Halloween)\n Si nasconde nell'ombra. Pare che nei luoghi in cui Gengar si cela, la temperatura si abbassi di 5°C.
+(Halloween Style)\n It hides in shadows. It is said that in rooms where Gengar is hiding, the temperature drops by nearly 10 degrees Fahrenheit.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Mewaii)\n Scambia informazioni con i suoi simili facendo lampeggiare i motivi sul suo corpo in sequenze complesse.
+(Mewaii Style)\n Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Vortail)\n Quando corre in rettilineo può raggiungere i 100 km/h, ma le curve non sono il suo forte.
+(Vortail Style)\n When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Ozelash)\n Quando si mette a sputare fuoco, il sonaglio infuocato che tiene al collo emette un forte tintinnio.
+(Ozelash Style)\n At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Salabel)\n Con la fiamma della coda brucia i fluidi corporei generati dalle sue sacche di veleno, producendo un gas velenoso.
+(Salabel Style)\n Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. 
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Stile Queccha)\n Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.
+(Queccha Style)\n This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Si è risvegliato grazie alla megaevoluzione. Si nasconde in una dimensione parallela aspettando il momento giusto per attaccare.
+(MegaEvolution)\n The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Quando si affeziona a una persona, la avvolge nelle sue soffici ali e inizia a canticchiare.
+(MegaEvolution)\n If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n I suoi muscoli sono potenziati dai poteri psichici e può percorrere 100 m in due secondi. La sua stretta esercita una pressione di una tonnellata.
+(MegaEvolution)\n Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Le masse rocciose nel suo corpo si sono espanse al punto da schiacciare gli organi interni, e per questo motivo è impazzito.
+(MegaEvolution)\n The rock masses in its body have expanded to the point of crushing the internal organs, and for this reason it has gone mad.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n L'energia della MegaEvoluzione ha reso il suo corpo un tizzone ardente che lo rende potentissimo, ma finirà per diventare cenere.
+(MegaEvolution)\n The energy of MegaEvolution has made its body a burning ember that makes it unbelievably powerful, but it will eventually become ash.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(MegaEvoluzione)\n Per proteggere l’Allenatrice o l’Allenatore dal pericolo, utilizza tutti i poteri psichici di cui dispone per creare un piccolo buco nero.
+(MegaEvolution)\n To protect its Trainer, it will expend all its psychic power to create a small black hole.
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+NO_KIND_SET (DO NOT REMOVE THIS LINE)
+(Forma di Hisui)\n Si dice mondi le anime smarrite con le proprie vampe per condurle verso l'aldilà.
+(Hisuian Form)\n Said to purify lost, forsaken souls with its flames and guide them to the afterlife.

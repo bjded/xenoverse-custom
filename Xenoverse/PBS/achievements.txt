@@ -1,0 +1,495 @@
+[Stella]
+title = È nata una stella!
+description = Inizia la tua avventura ad Eldiw!
+amount = 1
+image = 1_Stella
+[EsplosioneScampata]
+title = Esplosione scampata
+description = Sconfiggi o cattura il boss Elekid X.
+amount = 1
+image = 2_Esplosionescampata
+[Pescagrossa]
+title = Pesca grossa
+description = Sconfiggi o cattura il boss Sharpedo X.
+amount = 1
+image = 3_pescagrossa
+[Ragno]
+title = Aiuto, un ragno!
+description = Sconfiggi o cattura il boss Galvantula X.
+amount = 1
+image = 4_ragno
+[Tiranno]
+title = Abbassa la cresta, tiranno!
+description = Sconfiggi il boss Gengar X.
+amount = 1
+image = 5_tiranno
+[Fantino]
+title = Fantino delle nuvole
+description = Sconfiggi il boss Rapidash X.
+amount = 1
+image = 6_fantino
+[Grossi]
+title = Più sono grossi...
+description = Sconfiggi il boss Slurpuff X.
+amount = 1
+image = 7_gigante
+[Melodia]
+title = Melodia letale
+description = Sconfiggi o cattura il boss Roserade X.
+amount = 1
+image = 8_melodia
+[Finale]
+title = L'arma finale
+description = Sconfiggi il boss Mewtwo X.
+amount = 1
+image = 9_finale
+[Oscuro]
+title = L'Oscuro Signore
+description = Sconfiggi il leggendario Dragalisk.
+amount = 1
+image = 10_oscuro
+[Radice]
+title = Medaglia Radice
+description = Sconfiggi il Capopalestra Alisso.
+amount = 1
+image = 11_radice
+[Competizione]
+title = Medaglia Competizione
+description = Sconfiggi il Capopalestra Claudio.
+amount = 1
+image = 12_competizione
+[Zucchero]
+title = Medaglia Zucchero
+description = Sconfiggi la Capopalestra Mimosa.
+amount = 1
+image = 13_zucchero
+[Marea]
+title = Medaglia Marea
+description = Sconfiggi la Capopalestra Verbena.
+amount = 1
+image = 14_marea
+[Desolazione]
+title = Medaglia Desolazione
+description = Sconfiggi il Capopalestra Crisante.
+amount = 1
+image = 15_desolazione
+[Ritmo]
+title = Medaglia Ritmo
+description = Sconfiggi il Capopalestra Wallace Daddy.
+amount = 1
+image = 16_ritmo
+[Marchiatura]
+title = Medaglia Marchiatura
+description = Sconfiggi la Capopalestra Henné.
+amount = 1
+image = 17_marchiatura
+[Onore]
+title = Medaglia Onore
+description = Sconfiggi il Capopalestra Surge.
+amount = 1
+image = 18_onore
+[Mens]
+title = Mens sana
+description = Sconfiggi il Cardinale Chua.
+amount = 1
+image = 19_mens
+[Freddo]
+title = Sangue freddo
+description = Sconfiggi il Cardinale Castalia.
+amount = 1
+image = 20_freddo
+[Alata]
+title = Vittoria alata
+description = Sconfiggi il Cardinale Peyote.
+amount = 1
+image = 21_alata
+[Annientadraghi]
+title = Annientadraghi
+description = Sconfiggi il Cardinale Oleandro.
+amount = 1
+image = 22_annientadraghi
+[Plus]
+title = Plus Ultra!
+description = Sconfiggi Aster in cima al Monte Zodiaco.
+amount = 1
+image = 23_plus
+[Scontro]
+title = Incontro o scontro?
+description = Incontra e sfida il misterioso Trey.
+amount = 1
+image = 24_scontro
+[Confronto]
+title = Confronto decisivo
+description = Sconfiggi Trey dominato dal suo Alter.
+amount = 1
+image = 25_confronto
+[Autografo]
+title = Vuoi un autografo?
+description = Sconfiggi i Sergenti Dimension.
+amount = 1
+image = 26_autografo
+[Terminator]
+title = Terminator
+description = Sconfiggi il Sergente Dimension.
+amount = 1
+image = 27_terminator
+[Amore]
+title = Folle d'amore
+description = Sconfiggi il Colonnello Dimension.
+amount = 1
+image = 28_amore
+[Epilogo]
+title = Note dell'epilogo
+description = Sconfiggi il Generale Dimension.
+amount = 1
+image = 29_epilogo
+[Perseum]
+title = Gnam... rocce!
+description = Ottieni la gemma del Perseum N.
+amount = 1
+image = 30_perseum
+[Heraclium]
+title = Che forza!
+description = Ottieni la gemma dell'Heraclium N.
+amount = 1
+image = 31_heraclium
+[Ikarium]
+title = Il folle volo
+description = Ottieni la gemma dell'Ikarium N.
+amount = 1
+image = 32_ikarium
+[Kaiserum]
+title = Dacci un taglio!
+description = Ottieni la gemma del Kaiserium N.
+amount = 1
+image = 33_kaiserum
+[Odysseum]
+title = Onda su onda
+description = Ottieni la gemma dell'Odysseum N.
+amount = 1
+image = 34_odysseum
+[Fashion]
+title = Old Fashion
+description = Visita la dimensione Retrò e ottieni Pichu Retrò.
+amount = 1
+image = 35_fashion
+[Lotte]
+title = Novizio delle lotte
+description = Sconfiggi un Allenatore.
+amount = 1
+image = 36_lotte
+[Dejavu]
+title = Deja-vù...?
+description = Sconfiggi Gold in cima alla Vetta Boreale.
+amount = 1
+image = 37_dejavu
+[Spettri]
+title = Fantasmi, non vi temo!
+description = Aiuta la S.P.E.T.T.R.I. alle prese con lo spirito del saloon.
+amount = 1
+image = 38_spettri
+[Mamma]
+title = La mamma è sempre la mamma
+description = Sfida e sconfiggi tua madre Edera.
+amount = 1
+image = 40_mamma
+[Giungla]
+title = Il libro della giungla
+description = Sfida e sconfiggi Ruta di Ofiuchia.
+amount = 1
+image = 41_giungla
+[Fascino]
+title = Fascino focoso
+description = Sfida e sconfiggi Saul della S.P.E.T.T.R.I.
+amount = 1
+image = 42_fascino
+[Chiamata]
+title = Una chiamata inaspettata
+description = Sfida e sconfiggi il Bullo Gennaro.
+amount = 1
+image = 43_chiamata
+[Futuro]
+title = Il futuro è qui!
+description = Sfida e sconfiggi il Ricercatore Tarassaco.
+amount = 1
+image = 44_futuro
+[Dolcetto]
+title = Dolcetto o scherzetto?
+description = Risolvi le scorribande di Min & Mun.
+amount = 1
+image = 45_dolcetto
+[Spaziotempo]
+title = Spaziotempo
+description = Fai luce sul misterioso Dielebi.
+amount = 1
+image = 46_spaziotempo
+[Ombre]
+title = Ombre del passato
+description = Completa l'evento di Marshadow nel saloon.
+amount = 1
+image = 47_ombre
+[Talent]
+title = Talent Scout
+description = Completa l'evento di Meloetta.
+amount = 1
+image = 49_talent
+[Collezionista]
+title = Collezionista
+description = Raccogli tutti i souvenir delle città di Eldiw.
+amount = 1
+image = 50_collezionista
+[Anima]
+title = L'anima della Terra
+description = Sconfiggi o cattura il leggendario Luxflon.
+amount = 1
+image = 51_anima
+[Astra]
+title = Per Aspera Ad Astra.
+description = Completa la storia del gioco.
+amount = 1
+image = 52_astra
+[Fulmine]
+title = Colpo di fulmine?
+description = Incontra e sfida il tuo rivale.
+amount = 1
+image = 53_fulmine
+[Specchio]
+title = Il riflesso nello specchio
+description = Incontra e sfida il tuo malvagio Alter.
+amount = 1
+image = 54_specchio
+[Ranger]
+title = Emergente
+description = Sconfiggi almeno 50 Allenatori.
+amount = 50
+image = 55_ranger
+[Forte]
+title = Campione
+description = Sconfiggi almeno 150 Allenatori.
+amount = 150
+image = 56_forte
+[Passi]
+title = Primi passi
+description = Cattura il tuo primo Pokémon.
+amount = 1
+image = 57_passi
+[Erba]
+title = Collezionista in erba
+description = Cattura almeno 200 Pokémon.
+amount = 200
+image = 58_erba
+[Acchiappali]
+title = Acchiappali tutti!
+description = Cattura tutti i Pokémon di Eldiw.
+amount = 389
+image = 59_acchiappali
+[Ultraball]
+title = Ultra Ball? Nah!
+description = Cattura con una Poké Ball un Pokémon di Lv. 50 o più.
+amount = 1
+image = 60_ultraball
+[Ball]
+title = Amante delle Ball
+description = Tieni tutti i tipi di Ball nella borsa.
+amount = 1
+image = 61_ball
+[Orchestra]
+title = Orchestra
+description = Tieni in squadra tutte le forme di Bremand.
+amount = 1
+image = 65_orchestra
+[Frittata]
+title = Addio, frittata!
+description = Schiudi un Uovo.
+amount = 1
+image = 62_frittata
+[Passione]
+title = Uova che passione
+description = Schiudi almeno 50 Uova.
+amount = 50
+image = 63_passione
+[Allevatore]
+title = Allevatore certificato
+description = Schiudi almeno 200 Uova.
+amount = 200
+image = 64_allevatore
+[Fanatico]
+title = Fanatico
+description = Tieni in squadra 6 Weedle.
+amount = 1
+image = 66_fanatico
+[Mondo]
+title = Cose dell'altro mondo!
+description = Completa la sezione Xenoverse del Pokédex.
+amount = 29
+image = 67_mondo
+[Brillante]
+title = Allenatore brillante
+description = Cattura un Pokémon cromatico.
+amount = 1
+image = 68_brillante
+[Mercante]
+title = Incubo dei Mercanti
+description = Sconfiggi tutti i Mercanti in giro per Eldiw.
+amount = 11
+image = 69_mercante
+[Nemici]
+title = Quasi nemici
+description = Sconfiggi il tuo compagno nella sua Forma Xenoverse.
+amount = 1
+image = 70_nemici
+[Tana]
+title = Tana!
+description = Conquista tutti i Nidi Pokémon.
+amount = 19
+image = 71_tana
+[Hipster]
+title = Hip-hip... Hipster!
+description = Viaggia attraverso tutti i portali dimensionali di Dielebi.
+amount = 10
+image = 72_hipster
+[Mega]
+title = Mega Mania
+description = Ottieni tutte le Megapietre.
+amount = 1
+image = 73_mega
+[Leggendaria]
+title = Guerre astrali
+description = Porta a termine uno scontro leggenda.
+amount = 1
+image = 74_leggendaria
+[Platino]
+title = Xenoverse di platino
+description = Completa tutti gli Obiettivi di gioco.
+amount = 1
+image = 75_platino
+[Capo]
+title = Capopalestra
+description = Sconfiggi almeno 100 Allenatori.
+amount = 100
+image = 76_capopalestra
+[Ninja]
+title = Furia di Sangue
+description = Sconfiggi la Furia Greninja X.
+amount = 1
+image = 77_ninja
+[Bestie]
+title = Furia Bestiale
+description = Sconfiggi i Tre Cani Leggendari.
+amount = 1
+image = 78_bestie
+[PassioneOscura]
+title = Passione Oscura
+description = Sconfiggi Tamara Furia.
+amount = 1
+image = 79_passione
+[Lance]
+title = Domadraghi
+description = Sconfiggi Lance nel Torneo Apollo.
+amount = 1
+image = 80_domadraghi
+[Erika]
+title = Eterna Bellezza
+description = Sconfiggi Erika nel Torneo Apollo.
+amount = 1
+image = 81_eterna
+[Leo]
+title = Nostalgia di un Miltank
+description = Sconfiggi Leo nel Torneo Apollo.
+amount = 1
+image = 82_nostalgia
+[Dante]
+title = Danzare nel buio
+description = Sconfiggi Dante nel Torneo Apollo.
+amount = 1
+image = 83_gang
+[Martello]
+title = Il martello nella roccia
+description = Sconfiggi Aegislash X.
+amount = 1
+image = 84_martello
+[Araldi]
+title = Araldi della fine
+description = Sconfiggi tutti i Tapu sul Monte Zodiaco Alterato.
+amount = 1
+image = 85_araldi
+[Corridore]
+title = Corridore di un altro mondo
+description = Scopri la dimensione di Donanas.
+amount = 1
+image = 86_corridore
+[Impera]
+title = Chaos Omnia Impera
+description = Concludi con successo il Pass 4.
+amount = 1
+image = 87_impera
+[Geni]
+title = Le forze della natura
+description = Ottieni tutti e 4 i geni sul Monte Zodiaco Alterato.
+amount = 4
+image = 88_geni
+[StellaT]
+title = Sfilata elettrizzante
+description = Sconfiggi Stella nel Torneo Apollo.
+amount = 1
+image = 89_sfilata
+[Sotis]
+title = Clawman l'invincibile
+description = Sconfiggi Clawman nel Torneo Apollo.
+amount = 1
+image = 90_clawman
+[Iridio]
+title = Null Exception
+description = Sconfiggi Iridio nel Torneo Apollo.
+amount = 1
+image = 91_exception
+[Valentina]
+title = Danza della meditazione
+description = Sconfiggi Valentina nel Torneo Apollo.
+amount = 1
+image = 92_danza
+[Milioni]
+title = Fra milioni di stelle
+description = Riconquista di nuovo la vetta del Monte Zodiaco.
+amount = 1
+image = 93_milioni
+[Valter]
+title = The Song of Memory
+description = Sconfiggi Vakuum definitivamente.
+amount = 1
+image = 94_valter
+[Furiose]
+title = Battaglie Furiose
+description = Concludi con successo il Pass 5.
+amount = 1
+image = 95_furiose
+[Segreto]
+title = Boss Segreto
+description = Scopri il segreto del Bunker ed ottieni Mewtwo.
+amount = 1
+image = 96_segreto
+[Claudiolumen]
+title = Il passaggio della staffetta
+description = Riconquista per l'ultima volta la vetta del Monte Zodiaco.
+amount = 1
+image = 97_claudiolumen
+[Anomalia]
+title = Il segreto del Sentiero Rosa
+description = Ottieni il Pokémon Reginalous.
+amount = 1
+image = 98_anomalia
+[Velia]
+title = Raggiungere il Nirvana
+description = Sconfiggi Velia nel Torneo Apollo.
+amount = 1
+image = 99_velia
+[Lin & Nea]
+title = Gemelli Diversi
+description = Sconfiggi Lin & Nea nel Torneo Apollo.
+amount = 1
+image = 100_linnea
+[Sole]
+title = Il più forte di tutti
+description = Sconfiggi Sole nel Torneo Apollo.
+amount = 1
+image = 101_sole

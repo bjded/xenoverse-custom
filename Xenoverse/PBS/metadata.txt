@@ -1,0 +1,4184 @@
+﻿[000]
+PlayerA=PkMnTRAINER_Male,boy_walk,male overboard.png,laprasPGG,boy_run,boy_dive,boy_pesca.png,LaprasPGGPesca.png
+PlayerB=PkMnTRAINER_Female,girl_walk,femmina overboard.png,LaprasPGgG.png,girl_run,girl_dive,girl_pesca.png,LaprasPGgGpesca.png
+PlayerC=PkMnTRAINER_Female,girl_walk,girl_bike,girl_surf,girl_run,girl_dive,,
+PlayerD=PkMnTRAINER_Male,boy_walk,boy_bike,boy_surf,boy_run,boy_dive,,
+WildVictoryME=Sconfitta Pokemon.mp3
+TrainerBattleBGM=vs.Trainer.mp3
+SurfBGM=Surf (Lapras).mp3
+BicycleBGM=Pokeboard.mp3
+Home=28,21,7,8
+WildBattleBGM=002-Battle02.mid
+[001]
+# Isola Buconero
+BattleBack=IsolaVoodoo
+Weather=HeavyRain,100
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,2,6
+SafariMap=false
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+HealingSpot=11,9,8
+ShowArea=false
+[002]
+# Relitto Meteora
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,2,7
+DarkMap=false
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[003]
+# Cansiria
+BattleBack=rocca
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,23,3
+Outdoor=true
+ShowArea=true
+[004]
+# Motonave Cometa
+BattleBack=Aula3
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+Outdoor=false
+ShowArea=false
+[005]
+# Relitto Meteora
+BattleBack=Aula
+Bicycle=false
+MapPosition=0,2,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[006]
+# Relitto Meteora
+BattleBack=Aula
+Bicycle=false
+MapPosition=0,2,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[007]
+# Relitto Meteora
+BattleBack=Boat2
+Bicycle=false
+MapPosition=0,2,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[008]
+# Palestra Competizione
+DiveMap=9
+BattleBack=Evan
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,7
+Outdoor=true
+ShowArea=false
+[009]
+# Vetta Polare
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,8,3
+ShowArea=false
+[010]
+# Vetta Polare
+Weather=Snow,100
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,8,3
+Outdoor=true
+ShowArea=true
+[011]
+# Palestra Zucchero
+Weather=Rain,0
+Bicycle=false
+MapPosition=0,7,5
+Outdoor=true
+BicycleAlways=false
+ShowArea=false
+[012]
+# Grotta Zerokelvin
+BattleBack=GrottaGhiacciolo
+Bicycle=false
+MapPosition=0,8,5
+DarkMap=false
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=Wild Battle Snow.mp3
+ShowArea=true
+[013]
+# Grotta Zerokelvin
+BattleBack=GrottaGhiacciolo
+Bicycle=false
+MapPosition=0,8,5
+DarkMap=false
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[014]
+# Balansopoli
+Bicycle=false
+MapPosition=0,1,13
+Outdoor=false
+[015]
+# Grotta Zerokelvin
+BattleBack=GrottaGhiacciolo
+Bicycle=false
+MapPosition=0,8,5
+DarkMap=false
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[016]
+# Grotta Zerokelvin
+BattleBack=GrottaGhiacciolo
+Bicycle=false
+MapPosition=0,8,5
+DarkMap=false
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[017]
+# Grotta Zerokelvin
+BattleBack=GrottaGhiacciolo
+Bicycle=false
+MapPosition=0,8,5
+DarkMap=false
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[018]
+# Bosco Stellafilante
+BattleBack=Boscofilante1
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,18,8
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[019]
+# Grotta Zerokelvin
+BattleBack=Neve
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,8,5
+Outdoor=true
+WildBattleBGM=Wild Battle Snow.mp3
+ShowArea=false
+[020]
+# Grotta Zerokelvin
+BattleBack=GrottaGhiacciolo
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,8,5
+DarkMap=false
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=Wild Battle Snow.mp3
+[021]
+# Grotta Zerokelvin
+BattleBack=GrottaGhiacciolo
+Bicycle=false
+MapPosition=0,8,5
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[022]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,9
+Outdoor=false
+[023]
+# Percorso 3
+BattleBack=Neve
+Weather=Snow,100
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,8,6
+Outdoor=true
+WildBattleBGM=Wild Battle Snow.mp3
+ShowArea=true
+[025]
+# Test Map 2
+MapPosition=0,6,5
+[026]
+# Percorso 3
+BattleBack=Neve
+Weather=Snow,100
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,8,7
+Outdoor=true
+WildBattleBGM=Wild Battle Snow.mp3
+ShowArea=true
+[027]
+# Percorso 4
+MapSize=5,11111
+BattleBack=Neve
+Weather=Snow,100
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,10,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[028]
+# Ranch Spigadoro
+Bicycle=false
+MapPosition=0,3,15
+[030]
+# Vetta Polare
+Bicycle=false
+MapPosition=0,7,3
+[031]
+# Vetta Polare
+Bicycle=false
+MapPosition=0,8,3
+[032]
+# Vetta Polare
+Bicycle=false
+MapPosition=0,7,3
+[033]
+# Percorso 3
+Bicycle=false
+MapPosition=0,8,6
+[034]
+# Campus Ariepoli
+MapSize=2,11
+BattleBack=Campus
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,7
+Outdoor=true
+ShowArea=true
+[035]
+# Campus Ariepoli
+BattleBack=Campus
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,6
+Outdoor=true
+ShowArea=false
+[036]
+# Ranch Spigadoro
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,4,15
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[037]
+# Ranch Spigadoro
+Bicycle=false
+MapPosition=0,3,15
+[038]
+# Percorso 1
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=Vs.Trainer.mp3
+MapPosition=0,4,13
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[039]
+# Balansopoli
+MapSize=2,11
+Bicycle=true
+MapPosition=0,1,13
+Outdoor=true
+ShowArea=true
+[040]
+# Spiaggia Polvostella
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=Vs.Trainer.mp3
+MapPosition=0,2,12
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[041]
+# Laboratorio di Balansopoli
+Bicycle=false
+MapPosition=0,2,13
+Outdoor=false
+[042]
+# Percorso 12
+MapSize=3,111010010
+BattleBack=Percorso8
+Bicycle=true
+WildVictoryME=Sconfitta Pokemon.mp3
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,22,6
+DarkMap=false
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[043]
+# Motonave Cometa
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+Outdoor=false
+ShowArea=true
+[044]
+# Balansopoli
+Bicycle=false
+MapPosition=0,2,13
+Outdoor=false
+[045]
+# Balansopoli
+Bicycle=false
+MapPosition=0,2,13
+Outdoor=false
+[046]
+# Balansopoli
+Bicycle=false
+MapPosition=0,2,13
+Outdoor=false
+[047]
+# Motonave Cometa
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+[048]
+# Motonave Cometa
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+[049]
+# Motonave Cometa
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+[050]
+# Motonave Cometa
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+[051]
+# Intro
+[052]
+# Motonave Cometa
+Bicycle=false
+[053]
+# Campus Ariepoli
+BattleBack=Campus
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,5
+Outdoor=true
+ShowArea=false
+[054]
+# Campus Ariepoli
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[055]
+# Biblioteca di Ariepoli
+BattleBack=Biblioteca
+Bicycle=false
+MapPosition=0,12,5
+[056]
+# Palestra Competizione
+Bicycle=false
+MapPosition=0,12,7
+ShowArea=true
+[057]
+# Palestra Competizione
+BattleBack=Aula3
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,7
+[058]
+# Palestra Competizione
+BattleBack=Teatro
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,7
+[059]
+# Palestra Competizione
+BattleBack=Aula3
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,7
+DarkMap=true
+[060]
+# Palestra Competizione
+BattleBack=Aula3
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,12,7
+[061]
+# Borgo Gemini
+MapSize=2,11
+BattleBack=City
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,18,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[062]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,8
+Outdoor=false
+[063]
+# Borgo Gemini
+Bicycle=false
+MapPosition=0,18,7
+[064]
+# Borgo Gemini
+Bicycle=false
+MapPosition=0,18,7
+[065]
+# Borgo Gemini
+Bicycle=false
+MapPosition=0,18,7
+[066]
+# Borgo Gemini
+Bicycle=false
+MapPosition=0,18,7
+[067]
+# Borgo Gemini
+Bicycle=false
+MapPosition=0,18,7
+[068]
+# Percorso 5
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,16,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[069]
+# Isola Pigliapesci
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,2,10
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[070]
+# Isola Pigliapesci
+Bicycle=false
+MapPosition=0,2,10
+Outdoor=false
+[071]
+# Isola Pigliapesci
+Bicycle=false
+MapPosition=0,2,10
+Outdoor=false
+[072]
+# Isola Pigliapesci
+Bicycle=false
+MapPosition=0,2,10
+Outdoor=false
+[073]
+# Isola Pigliapesci
+Bicycle=false
+MapPosition=0,2,10
+Outdoor=false
+[074]
+# Mare di Eldiw
+Outdoor=true
+[075]
+# Percorso 6
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,19,9
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[076]
+# Radura Paludosa
+BattleBack=Boscofilante1
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,18,8
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[077]
+# Bosco Stellafilante
+MapSize=1,11
+BattleBack=Boscofilante
+Weather=Storm,10
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,18,8
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[078]
+# Sentiero Gravità
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,22,8
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[079]
+# Regno di Virgopoli
+MapSize=1,11
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,20,8
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[080]
+# Cunicolo Gravità
+MapSize=1,1111
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,23,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[081]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,8
+Outdoor=false
+[082]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,9
+Outdoor=false
+[083]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,8
+Outdoor=false
+[084]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,8
+Outdoor=false
+[085]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,8
+Outdoor=false
+[086]
+# Cunicolo Gravità
+MapSize=1,1111
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,23,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[087]
+# Campus Ariepoli
+Bicycle=false
+MapPosition=0,12,7
+[088]
+# Campus Ariepoli
+Bicycle=false
+MapPosition=0,12,7
+[089]
+# Campus Ariepoli
+Bicycle=false
+MapPosition=0,12,7
+[090]
+# Campus Ariepoli
+Bicycle=false
+MapPosition=0,12,7
+[091]
+# Campus Ariepoli
+Bicycle=false
+MapPosition=0,12,7
+[092]
+# Percorso 5
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,14,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[093]
+# Palestra Radice
+BattleBack=Capopalestra1
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,2,13
+DarkMap=false
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[095]
+# Campus Ariepoli
+Bicycle=false
+MapPosition=0,12,6
+[096]
+# Percorso 5
+MapSize=0,
+BattleBack=Bosco
+Bicycle=true
+MapPosition=0,15,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[097]
+# Aquariopoli
+MapSize=2,11
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,21,4
+Outdoor=true
+[098]
+# Borgo Gemini
+Bicycle=false
+MapPosition=0,18,7
+[099]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,9
+Outdoor=false
+[100]
+# Regno di Virgopoli
+Bicycle=false
+MapPosition=0,20,8
+Outdoor=false
+[101]
+# Palestra Zucchero
+Bicycle=false
+MapPosition=0,20,8
+Outdoor=false
+ShowArea=true
+[102]
+# Palestra Zucchero
+BattleBack=Druddigon
+Bicycle=false
+Outdoor=true
+WildBattleBGM=Pericolo!.mp3
+[103]
+# Palestra Zucchero
+Bicycle=false
+Outdoor=true
+[104]
+# Cansiria
+BattleBack=Michela
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,23,3
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
+[105]
+# Aquariopoli
+Bicycle=false
+MapPosition=0,26,7
+Outdoor=false
+[106]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,20,4
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+[107]
+# Percorso 12
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,22,4
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[108]
+# Percorso 7
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,24,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[109]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[110]
+# Cammino dell'Eroe
+BattleBack=Bosco
+Bicycle=false
+MapPosition=0,21,16
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[111]
+# Cansiria
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+[112]
+# Cansiria
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+[113]
+# Cansiria
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+[114]
+# Cansiria
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+ShowArea=false
+[115]
+# Cansiria
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+[116]
+# Cansiria
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+[117]
+# Percorso 7
+MapSize=2,11
+BattleBack=Field
+Bicycle=true
+Dungeon=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,24,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[118]
+# Caverna Zenit
+BattleBack=VulcanoDecibell
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=false
+[119]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[120]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[121]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[122]
+# Vulcano Pulsar
+BattleBack=Neve
+Weather=Snow,100
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=true
+WildBattleBGM=Wild Battle Snow.mp3
+[123]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[124]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[125]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[126]
+# Vulcano Pulsar
+BattleBack=StarterX
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,2
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+[127]
+# Xenoverse
+BattleBack=MondoXenoverse
+Bicycle=false
+TrainerBattleBGM=VS. Versil Dragalisk.mp3
+Outdoor=false
+ShowArea=true
+[128]
+# Caverna Zenit
+BattleBack=VulcanoDecibell
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[129]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[130]
+# Aquariopoli
+BattleBack=Cavern
+Bicycle=false
+TrainerBattleBGM=vs.Trainer.mp3
+MapPosition=0,26,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[131]
+# Aquariopoli
+Bicycle=false
+MapPosition=0,26,7
+Outdoor=false
+[132]
+# Aquariopoli
+Bicycle=false
+MapPosition=0,26,7
+Outdoor=false
+[133]
+# Aquariopoli
+Bicycle=false
+MapPosition=0,27,7
+Outdoor=false
+[134]
+# Aquariopoli
+Bicycle=false
+MapPosition=0,26,7
+Outdoor=false
+[135]
+# Canyon Asteroide
+BattleBack=Canyon
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,9
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+[136]
+# Isola Pigliapesci
+Bicycle=false
+MapPosition=0,2,10
+Outdoor=false
+[137]
+# Isola Pigliapesci
+Bicycle=false
+MapPosition=0,2,10
+Outdoor=false
+[138]
+# Percorso 12
+Bicycle=false
+MapPosition=0,22,4
+Outdoor=false
+[139]
+# Caverna Zenit
+BattleBack=VulcanoDecibell
+Bicycle=false
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=VS. Luxflon.mp3
+[140]
+# ???
+Bicycle=false
+Outdoor=false
+[141]
+# ???
+BattleBack=
+Bicycle=false
+WildVictoryME=victoryvintage.mp3
+TrainerBattleBGM=vs.teamrocket.mp3
+Outdoor=true
+ShowArea=true
+[142]
+# Palestra Marea
+Bicycle=false
+MapPosition=0,27,7
+Outdoor=false
+ShowArea=true
+[143]
+# Palestra Marea
+BattleBack=palestraoasi
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,27,7
+Outdoor=false
+[144]
+# Palestra Marea
+BattleBack=palestraoasi
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,27,7
+Outdoor=false
+[145]
+# Palestra Marea
+BattleBack=palestraoasi
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,27,7
+Outdoor=false
+[146]
+# Palestra Marea
+Bicycle=false
+MapPosition=0,27,7
+Outdoor=false
+[147]
+# Palestra Marea
+BattleBack=palestraoasi
+Bicycle=false
+MapPosition=0,27,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[148]
+# Palestra Marea
+BattleBack=alexandra
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,27,7
+Outdoor=false
+ShowArea=false
+[149]
+# Palestra Marea
+BattleBack=palestraoasi
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,27,7
+Outdoor=false
+[150]
+# Scorpiopoli
+BattleBack=Westopoli
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,13
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+ShowArea=true
+[151]
+# Scorpiopoli
+BattleBack=Westopoli
+Bicycle=true
+MapPosition=0,30,13
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+[152]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[153]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[154]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[155]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[156]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[157]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[158]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[159]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[160]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[161]
+# Caserma S.P.E.T.T.R.I.
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[162]
+# Caserma S.P.E.T.T.R.I.
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[163]
+# Caserma S.P.E.T.T.R.I.
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[164]
+# Caserma S.P.E.T.T.R.I.
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[165]
+# Saloon Torobrado
+BattleBack=Saloon
+Bicycle=false
+TrainerBattleBGM=VS. Spettri.mp3
+MapPosition=0,30,13
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[166]
+# Saloon Torobrado
+BattleBack=Saloon
+Bicycle=false
+MapPosition=0,30,13
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[167]
+# Saloon Torobrado
+BattleBack=Saloon
+Bicycle=false
+MapPosition=0,30,13
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[168]
+# Saloon Torobrado
+BattleBack=Saloon
+Bicycle=false
+MapPosition=0,30,13
+DarkMap=false
+Outdoor=false
+WildBattleBGM=VS. MarshadowMeloetta.mp3
+[169]
+# Saloon Torobrado
+BattleBack=Saloon2
+Bicycle=false
+TrainerBattleBGM=VS. Spettri.mp3
+MapPosition=0,30,13
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[170]
+# Saloon Torobrado
+BattleBack=Saloon2
+Bicycle=false
+MapPosition=0,30,13
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[171]
+# Saloon Torobrado
+BattleBack=Saloon
+Bicycle=false
+TrainerBattleBGM=VS. Spettri.mp3
+MapPosition=0,30,13
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[172]
+# Saloon Torobrado
+BattleBack=Saloon3
+Bicycle=false
+TrainerBattleBGM=VS. Spettri.mp3
+MapPosition=0,30,13
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+[173]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[174]
+# Scorpiopoli
+BattleBack=Aula
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[175]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[176]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[177]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[178]
+# Scorpiopoli
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,13
+Outdoor=false
+[179]
+# El Purgatorio
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[180]
+# El Purgatorio
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[181]
+# Scorpiopoli
+BattleBack=Westopoli
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,13
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+ShowArea=true
+[182]
+# Scorpiopoli
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[184]
+# Quasar Express
+BattleBack=Train
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[185]
+# Quasar Express
+BattleBack=Train
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[186]
+# Quasar Express
+BattleBack=Train
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[187]
+# Quasar Express
+Bicycle=false
+Outdoor=false
+[188]
+# Quasar Express
+BattleBack=Aula3
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+DarkMap=true
+Outdoor=false
+ShowArea=true
+[189]
+# Quasar Express
+Bicycle=false
+Outdoor=false
+[190]
+# Quasar Express
+BattleBack=Train
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[191]
+# El Purgatorio
+BattleBack=crisante
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+ShowArea=true
+[192]
+# El Purgatorio
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[193]
+# El Purgatorio
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[194]
+# El Purgatorio
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+ShowArea=false
+[195]
+# El Purgatorio
+Bicycle=false
+MapPosition=0,29,13
+Outdoor=false
+[196]
+# Quasar Express
+BattleBack=Train
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[197]
+# Leopoli
+Bicycle=true
+MapPosition=0,26,18
+Outdoor=true
+ShowArea=true
+[198]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[199]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[200]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[201]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[202]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[203]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[204]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,19
+Outdoor=false
+[205]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[206]
+# Leopoli
+BattleBack=Aula3
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[207]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[208]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[209]
+# Palestra Ritmo
+BattleBack=Slurpuff
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=true
+WildBattleBGM=VS. XBoss.mp3
+[210]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[211]
+# Leopoli
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[212]
+# Leopoli
+Bicycle=true
+MapPosition=0,26,18
+Outdoor=true
+ShowArea=true
+[213]
+# Palestra Ritmo
+BattleBack=Aula3
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,26,18
+Outdoor=false
+ShowArea=true
+[214]
+# Golden Studio
+BattleBack=Aula3
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,26,18
+Outdoor=false
+[215]
+# Golden Studio
+BattleBack=goldenstudio
+Bicycle=false
+TrainerVictoryME=vittoria.mp3
+TrainerBattleBGM=Daddy song.mp3
+MapPosition=0,26,18
+Outdoor=false
+[216]
+# Palestra Ritmo
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[217]
+# Palestra Ritmo
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=false
+[218]
+# Palestra Ritmo
+BattleBack=Meloetta
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=true
+WildBattleBGM=VS. MarshadowMeloetta.mp3
+[219]
+# Aeroporto Samuel Oak
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,24,18
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[220]
+# Percorso 8
+BattleBack=Canyon
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,27,17
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+ShowArea=true
+[221]
+# Outlet Hip-Top
+Bicycle=false
+MapPosition=0,25,18
+Outdoor=false
+[222]
+# Palestra Ritmo
+BattleBack=palestradaddy
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,26,18
+Outdoor=false
+[223]
+# Capricornia
+Bicycle=true
+MapPosition=0,29,4
+Outdoor=true
+ShowArea=true
+[224]
+# Aeroporto Samuel Oak
+BattleBack=Aula2
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,24,18
+Outdoor=false
+[225]
+# Aeroporto Samuel Oak
+BattleBack=Aula2
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,24,18
+Outdoor=false
+[226]
+# Aeroporto Samuel Oak
+BattleBack=Aula2
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,24,18
+Outdoor=false
+[227]
+# Aeroporto Samuel Oak
+Bicycle=false
+MapPosition=0,24,18
+Outdoor=false
+[228]
+# Aeroporto Samuel Oak
+Bicycle=false
+MapPosition=0,24,18
+Outdoor=false
+[229]
+# Aeroporto Samuel Oak
+Bicycle=false
+MapPosition=0,24,18
+Outdoor=false
+[230]
+# Aeroporto Samuel Oak
+BattleBack=Aula2
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,24,18
+Outdoor=false
+[231]
+# Nido Pokémon
+Bicycle=false
+MapPosition=0,4,13
+[232]
+# Isola Buconero
+BattleBack=Fish
+Weather=Rain,100
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[233]
+# Isola Buconero
+BattleBack=Bosco
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[234]
+# Isola Buconero
+BattleBack=Bosco
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[235]
+# Isola Buconero
+BattleBack=Bosco
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[236]
+# Isola Buconero
+BattleBack=Bosco
+Weather=Rain,100
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[237]
+# Isola Buconero
+BattleBack=Bosco
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[238]
+# Isola Buconero
+BattleBack=Bosco
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[239]
+# Isola Buconero
+BattleBack=Bosco
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[240]
+# Isola Buconero
+BattleBack=Bosco
+Weather=Rain,100
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Mimikyu Battle.mp3
+[241]
+# Canyon Asteroide
+BattleBack=Canyon
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,28,7
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+ShowArea=true
+[242]
+# Isola Buconero
+BattleBack=Bosco
+Weather=Rain,100
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=false
+[243]
+# Vetta Polare
+Bicycle=false
+MapPosition=0,7,3
+[244]
+# Vetta Polare
+Bicycle=false
+MapPosition=0,8,3
+[245]
+# Vetta Polare
+Bicycle=false
+MapPosition=0,8,3
+[246]
+# Covo Dimension
+BattleBack=Aula
+Bicycle=false
+MapPosition=0,0,0
+DarkMap=false
+WildBattleBGM=Wild Battle.mp3
+[247]
+# Percorso 10
+BattleBack=Field
+Bicycle=true
+MapPosition=0,15,18
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+[248]
+# Nido Pokémon
+Bicycle=false
+[249]
+# Radura Paludosa
+Bicycle=false
+MapPosition=0,18,8
+[250]
+# Nido Pokémon
+Bicycle=false
+[251]
+# Palestra Zucchero
+BattleBack=Michela
+Bicycle=false
+MapPosition=0,20,8
+Outdoor=true
+[252]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[253]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[254]
+# Vulcano Pulsar
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,17,3
+Outdoor=true
+[255]
+# Vulcano Pulsar
+Bicycle=false
+MapPosition=0,17,3
+Outdoor=false
+[256]
+# Vulcano Pulsar
+Bicycle=false
+MapPosition=0,17,3
+Outdoor=false
+[257]
+# Quasar Express
+BattleBack=TopTrain
+Bicycle=false
+TrainerBattleBGM=vs.Mimikyu.mp3
+Outdoor=false
+[258]
+# Limbo
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[259]
+# Capricornia
+Bicycle=false
+MapPosition=0,29,4
+Outdoor=false
+[260]
+# Capricornia
+Bicycle=false
+MapPosition=0,29,4
+Outdoor=false
+[261]
+# Capricornia
+Bicycle=false
+MapPosition=0,29,4
+Outdoor=false
+[262]
+# Capricornia
+Bicycle=false
+MapPosition=0,29,4
+Outdoor=false
+[263]
+# Canyon Asteroide
+BattleBack=Canyon
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,7
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+[264]
+# Percorso 9
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,17
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[265]
+# Ofiuchia
+Bicycle=true
+MapPosition=0,18,17
+Outdoor=true
+ShowArea=true
+[266]
+# Canyon Asteroide
+BattleBack=Canyon
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,9
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+[267]
+# Giungla Nebulosa
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,16
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[268]
+# Giungla Nebulosa
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,16
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[269]
+# Giungla Nebulosa
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,17
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[270]
+# Giungla Nebulosa
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,17
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[271]
+# Tempio Shyleon
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,16
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[272]
+# Cammino dell'Eroe
+Bicycle=false
+MapPosition=0,21,17
+Outdoor=false
+ShowArea=true
+[273]
+# Aquariopoli
+BattleBack=GengarX
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,26,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[274]
+# Aquariopoli
+BattleBack=Desert
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,26,7
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[275]
+# Canyon Asteroide
+BattleBack=Canyon
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,10
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+[276]
+# Gola Steelix
+BattleBack=Gola
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,11
+Outdoor=false
+WildBattleBGM=Wild Battle Canyon.mp3
+ShowArea=true
+[277]
+# Palestra Ritmo
+BattleBack=palestradaddy
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,26,18
+Outdoor=false
+[278]
+# Area Dugtrio
+BattleBack=Canyon
+Bicycle=true
+MapPosition=0,29,6
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+ShowArea=true
+[279]
+# Area Dugtrio
+BattleBack=Gola
+Bicycle=true
+MapPosition=0,29,6
+Outdoor=false
+WildBattleBGM=Wild Battle Canyon.mp3
+[280]
+# Percorso 10
+BattleBack=Field
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,15,18
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[281]
+# Percorso 13
+BattleBack=Neve
+Weather=Snow,100
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,14,2
+Outdoor=true
+WildBattleBGM=Wild Battle Snow.mp3
+ShowArea=true
+[282]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+MapPosition=0,14,2
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[283]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+MapPosition=0,14,2
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[284]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+MapPosition=0,14,2
+WildBattleBGM=Wild Battle.mp3
+[285]
+# Vulcano Pulsar
+BattleBack=VulcanoDecibell
+Bicycle=true
+MapPosition=0,14,2
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[286]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[287]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[288]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[289]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[290]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[291]
+# Cammino dell'Eroe
+BattleBack=Bosco
+Bicycle=false
+MapPosition=0,21,17
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[292]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[293]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[294]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[295]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=VS. XBoss.mp3
+[296]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,21,15
+Outdoor=false
+[297]
+# Ofiuchia
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+ShowArea=true
+[298]
+# Ofiuchia
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+[299]
+# Ofiuchia
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+[300]
+# Ofiuchia
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+[301]
+# Ofiuchia
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+[302]
+# Ofiuchia
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+[303]
+# Ofiuchia
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+[304]
+# Fogne di Sagittopoli
+BattleBack=Fogna
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,10,19
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[305]
+# Foresta Neropesto
+BattleBack=Bosco
+Bicycle=true
+MapPosition=0,2,7
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+ShowArea=true
+[306]
+# Foresta Neropesto
+BattleBack=Darkrai
+Bicycle=false
+Outdoor=true
+WildBattleBGM=VS. LegendaryDP.mp3
+ShowArea=true
+[307]
+# Sagittopoli
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[308]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,19
+Outdoor=false
+[309]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,19
+Outdoor=false
+[310]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,19
+Outdoor=false
+[311]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[312]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[313]
+# Condominio Lotta
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[314]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,19
+Outdoor=false
+[315]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,19
+Outdoor=false
+[316]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,19
+Outdoor=false
+[317]
+# Sagittopoli
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,11,18
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[318]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[319]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,19
+Outdoor=false
+[320]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,19
+Outdoor=false
+[321]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[322]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,19
+Outdoor=false
+[323]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[324]
+# Circo Sirio
+BattleBack=Circo
+Bicycle=false
+TrainerVictoryME=vittoria.mp3
+MapPosition=0,11,18
+Outdoor=false
+ShowArea=true
+[325]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[326]
+# Condominio Lotta
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=false
+[327]
+# Casinò Eldiw
+BattleBack=Aula2
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+MapPosition=0,11,18
+Outdoor=false
+[328]
+# Casinò Eldiw
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[329]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[330]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,19
+Outdoor=false
+[331]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[332]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[333]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,19
+Outdoor=false
+[334]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[335]
+# Aranciopoli
+BattleBack=Fish
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle Kanto.mp3
+ShowArea=true
+[336]
+# Aeroporto Megaforza
+Bicycle=false
+Outdoor=false
+[337]
+# Vecchia Palestra Tuono
+BattleBack=Surge
+Bicycle=false
+TrainerVictoryME=vittoria.mp3
+TrainerBattleBGM=VS Surge.mp3
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
+[338]
+# Aranciopoli
+BattleBack=Fish
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Kanto.mp3
+[339]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[340]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[341]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[342]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[343]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[344]
+# Pokémon Fan Club
+Bicycle=false
+Outdoor=false
+[345]
+# Percorso 11
+BattleBack=Beach
+Bicycle=true
+MapPosition=0,12,20
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[346]
+# Tauronordia
+BattleBack=Neve
+Weather=Snow,100
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,1
+Outdoor=true
+WildBattleBGM=Wild Battle Snow.mp3
+ShowArea=true
+[347]
+# Percorso 14
+BattleBack=Neve
+Weather=Snow,100
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,11,1
+Outdoor=true
+WildBattleBGM=Wild Battle Snow.mp3
+ShowArea=true
+[348]
+# Nido Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=true
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+ShowArea=true
+[349]
+# Percorso 16
+BattleBack=Beach
+Weather=Rain,60
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,2,8
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[350]
+# Percorso 15
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,3,11
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[351]
+# Percorso 17
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,8,9
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[352]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[353]
+# Condominio Lotta
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=false
+[354]
+# Condominio Lotta
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=false
+[355]
+# Condominio Lotta
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=false
+[356]
+# Condominio Lotta
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=false
+[357]
+# Condominio Lotta
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=false
+[358]
+# Condominio Lotta
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=false
+[359]
+# Condominio Lotta
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,12,18
+Outdoor=false
+[360]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[361]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[362]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[363]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,12,18
+Outdoor=false
+[364]
+# Covo Dimension
+BattleBack=palestradaddy
+Bicycle=false
+TrainerBattleBGM=VS. Alter Trey.mp3
+MapPosition=0,10,18
+Outdoor=false
+ShowArea=true
+[365]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[366]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[367]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS-AB.mp3
+Outdoor=false
+[368]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[369]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[370]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=vs.Mimikyu.mp3
+Outdoor=false
+[371]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[372]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[373]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[374]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[375]
+# Covo Dimension
+Bicycle=false
+Outdoor=false
+[376]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Team Dimension.mp3
+Outdoor=false
+[377]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. Victor.mp3
+Outdoor=false
+WildBattleBGM=SEQ_BGM_WIFI_ACCESS.sseq.mid
+[378]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[379]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+Outdoor=false
+[380]
+# Covo Dimension
+BattleBack=CovoDimension
+Bicycle=false
+TrainerBattleBGM=VS. XBoss.mp3
+Outdoor=false
+WildBattleBGM=VS. XBoss.mp3
+[381]
+# Covo Dimension
+Bicycle=false
+Outdoor=false
+[382]
+# Xenoverse
+BattleBack=MondoXenoverse
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=true
+[383]
+# Xenoverse
+BattleBack=MondoXenoverse
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+[384]
+# Percorso 15
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,4,11
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+[385]
+# Xenoverse
+BattleBack=crisante
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+[386]
+# Xenoverse
+BattleBack=xenodraga
+Bicycle=false
+Outdoor=false
+[387]
+# Via Vittoria
+BattleBack=Beach
+Bicycle=true
+MapPosition=0,14,21
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+[388]
+# Monte Zodiaco
+Bicycle=true
+MapPosition=0,18,19
+Outdoor=true
+ShowArea=true
+[389]
+# Monte Zodiaco
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[390]
+# Monte Zodiaco
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[391]
+# Monte Zodiaco
+BattleBack=Elite
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[392]
+# Monte Zodiaco
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[393]
+# Monte Zodiaco
+BattleBack=Elite2
+Weather=Snow,100
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[394]
+# Monte Zodiaco
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[395]
+# Monte Zodiaco
+BattleBack=Elite4
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[396]
+# Monte Zodiaco
+MapPosition=0,18,19
+Outdoor=false
+[397]
+# Monte Zodiaco
+BattleBack=Elite3
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[398]
+# Monte Zodiaco
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[399]
+# Monte Zodiaco
+BattleBack=Aster
+Bicycle=false
+MapPosition=0,18,19
+Outdoor=false
+[400]
+# Nido Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=true
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[401]
+# Nido Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=true
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[402]
+# Nido Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=true
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[403]
+# Nido Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=true
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[404]
+# Nido Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=true
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[405]
+# Caverna Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=false
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=VS. Luxflon.mp3
+ShowArea=true
+[406]
+# Nido Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=true
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=Wild Battle Snow.mp3
+[407]
+# Nido Boreale
+BattleBack=Gold
+Weather=Snow,100
+Bicycle=false
+TrainerBattleBGM=VS. Ethan.mp3
+MapPosition=0,10,1
+Outdoor=true
+ShowArea=true
+[408]
+# Via Vittoria
+BattleBack=Bosco
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[409]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[410]
+# Via Vittoria
+Bicycle=false
+MapPosition=0,14,21
+Outdoor=false
+[411]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[412]
+# Tauronordia
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+[413]
+# Tauronordia
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+[414]
+# Tauronordia
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+[415]
+# Tauronordia
+BattleBack=Aula2
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+[416]
+# Tauronordia
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+[417]
+# Tauronordia
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+[418]
+# Tauronordia
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+[419]
+# Tauronordia
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+[420]
+# Cansiria
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+[421]
+# Cammino dell'Eroe
+BattleBack=Bosco
+Bicycle=false
+MapPosition=0,21,17
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[422]
+# Cammino dell'Eroe
+BattleBack=Bosco
+Bicycle=false
+MapPosition=0,21,17
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[423]
+# Percorso 13
+Bicycle=false
+MapPosition=0,14,2
+Outdoor=false
+[424]
+# Grotta Cratere
+BattleBack=VulcanoDecibell
+Bicycle=true
+MapPosition=0,14,2
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[425]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[426]
+# Grotta Cratere
+BattleBack=Heatran
+Weather=Sunny,100
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. LegendaryDP.mp3
+[427]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[428]
+# Aranciopoli
+BattleBack=Old
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Legendary RedBlue.mp3
+[429]
+# Cunicolo Lunapiena
+Bicycle=false
+MapPosition=0,2,8
+Outdoor=true
+ShowArea=true
+[430]
+# Cunicolo Lunapiena
+BattleBack=Darkrai
+Bicycle=false
+Outdoor=true
+WildBattleBGM=VS. LegendaryDP.mp3
+ShowArea=false
+[431]
+# Laboratorio Paleozoico
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[432]
+# Laboratorio Paleozoico
+BattleBack=Genesect
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS.Genesect.mp3
+[433]
+# Zona DNA
+BattleBack=Canyon
+Bicycle=true
+MapPosition=0,29,6
+Outdoor=true
+ShowArea=true
+[434]
+# Zona DNA
+BattleBack=Deoxys
+Bicycle=false
+Outdoor=true
+WildBattleBGM=VS.Deoxys.mp3
+[435]
+# Cunicolo Gravità
+BattleBack=Cavern
+Bicycle=true
+MapPosition=0,23,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[436]
+# Cunicolo Gravità
+BattleBack=Cavern
+Bicycle=true
+MapPosition=0,23,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[437]
+# Cunicolo Gravità
+BattleBack=Cavern
+Bicycle=true
+MapPosition=0,23,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[438]
+# Cunicolo Gravità
+BattleBack=Cavern
+Bicycle=true
+MapPosition=0,23,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[439]
+# Grotta Immersione
+BattleBack=Cavern
+Bicycle=true
+MapPosition=0,23,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[440]
+# Grotta Immersione
+BattleBack=Old
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Lugiahooh.mp3
+[441]
+# Cunicolo Gravità
+BattleBack=Cavern
+Bicycle=true
+MapPosition=0,23,7
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[442]
+# Nido Tempovia
+Bicycle=false
+MapPosition=0,18,8
+Outdoor=true
+ShowArea=true
+[443]
+# Nido Tempovia
+BattleBack=Old
+Bicycle=false
+MapPosition=0,0,0
+Outdoor=true
+WildBattleBGM=VS. Lugiahooh.mp3
+[444]
+# Cansiria
+BattleBack=Entei
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[445]
+# Cansiria
+BattleBack=Old
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Lugiahooh.mp3
+[446]
+# Ofiuchia
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[447]
+# Ofiuchia
+BattleBack=Bosco
+Weather=Rain,100
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=true
+WildBattleBGM=VS. Cani Leggendari.mp3
+[448]
+# Ofiuchia
+BattleBack=Old
+Bicycle=false
+MapPosition=0,0,0
+Outdoor=true
+WildBattleBGM=VS. Lugiahooh.mp3
+[449]
+# Cunicolo Gravità
+BattleBack=Cavern
+Bicycle=true
+MapPosition=0,22,8
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[450]
+# Bosco Stellafilante
+BattleBack=Boscofilante
+Weather=Snow,100
+Bicycle=true
+MapPosition=0,18,8
+Outdoor=true
+WildBattleBGM=Wild Battle Jungle.mp3
+[451]
+# Fogne di Sagittopoli
+BattleBack=Fogna
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[452]
+# Saloon Torobrado
+BattleBack=Saloon
+Bicycle=false
+MapPosition=0,30,13
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[453]
+# Percorso 12
+BattleBack=Cavern
+Bicycle=true
+MapPosition=0,22,4
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[454]
+# Percorso 12
+BattleBack=Percorso8
+Bicycle=true
+WildVictoryME=Sconfitta Pokemon.mp3
+MapPosition=0,22,4
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+[455]
+# Vulcano Pulsar
+BattleBack=DecibellX
+Bicycle=true
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[456]
+# Tauronordia
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+ShowArea=true
+[457]
+# Tauronordia
+BattleBack=Suicune
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[458]
+# Tauronordia
+BattleBack=Suicune
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[459]
+# Tauronordia
+BattleBack=Suicune
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[460]
+# Tauronordia
+BattleBack=Suicune
+Weather=Snow,100
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+WildBattleBGM=VS. Cani Leggendari.mp3
+[461]
+# Tauronordia
+BattleBack=Old
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Lugiahooh.mp3
+[462]
+# Radura Paludosa
+Bicycle=false
+[463]
+# Percorso 8
+Bicycle=false
+MapPosition=0,27,18
+Outdoor=false
+[464]
+# Cascate Firmamento
+BattleBack=Canyon
+Bicycle=true
+MapPosition=0,29,3
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+ShowArea=true
+[465]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[466]
+# Sagittopoli
+BattleBack=Aula
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[467]
+# Fogne di Sagittopoli
+BattleBack=Fogna
+Bicycle=false
+TrainerBattleBGM=Gennaro Bullo ost.mp3
+MapPosition=0,10,19
+Outdoor=false
+WildBattleBGM=Wild Battle Jungle.mp3
+[468]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[469]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[470]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[471]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[472]
+# Percorso Arcobaleno
+Bicycle=true
+MapPosition=0,16,21
+Outdoor=true
+ShowArea=true
+[473]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[474]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[475]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[476]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[477]
+# Via Vittoria
+BattleBack=Cavern
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[478]
+# Percorso Arcobaleno
+BattleBack=Old
+Bicycle=false
+Outdoor=true
+WildBattleBGM=VS. Lugiahooh.mp3
+[479]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[480]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=VS. XBoss.mp3
+[481]
+# Buio
+BattleBack=Dragalisk
+Bicycle=false
+Outdoor=false
+[482]
+# Cascate Firmamento
+BattleBack=Gola
+Bicycle=true
+MapPosition=0,29,3
+Outdoor=false
+WildBattleBGM=Wild Battle Canyon.mp3
+[483]
+# Cascate Firmamento
+BattleBack=Gola
+Bicycle=true
+MapPosition=0,29,3
+Outdoor=false
+WildBattleBGM=VS. Luxflon.mp3
+[484]
+# Tempio Shyleon
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,21,15
+Outdoor=false
+WildBattleBGM=VS. Luxflon.mp3
+[485]
+# Caverna Zenit
+BattleBack=VulcanoDecibell
+Bicycle=false
+MapPosition=0,17,3
+Outdoor=false
+WildBattleBGM=VS. Luxflon.mp3
+ShowArea=true
+[486]
+# Covo Dimension
+BattleBack=Aula3
+Bicycle=false
+MapPosition=0,10,18
+Outdoor=false
+WildBattleBGM=VS. XBoss.mp3
+ShowArea=true
+[487]
+# Via Vittoria
+BattleBack=Cavern
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,16,21
+Outdoor=false
+WildBattleBGM=Wild Battle.mp3
+[488]
+# Nido Pokémon
+Bicycle=false
+MapPosition=0,2,7
+Outdoor=true
+[489]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,19
+Outdoor=false
+[490]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[491]
+# Sagittopoli
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,11,18
+Outdoor=false
+[492]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[493]
+# Sagittopoli
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,11,19
+Outdoor=false
+[494]
+# Sagittopoli
+Bicycle=false
+MapPosition=0,11,19
+Outdoor=false
+[495]
+# Nido Pokémon
+Bicycle=false
+Outdoor=true
+[496]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[500]
+# Nido Pokémon
+Bicycle=false
+MapPosition=0,14,2
+Outdoor=false
+ShowArea=false
+[501]
+# Nido Pokémon
+Bicycle=false
+Outdoor=true
+[502]
+# Nido Pokémon
+Bicycle=false
+Outdoor=true
+[503]
+# Nido Pokémon
+Bicycle=false
+Outdoor=true
+[504]
+# Nido Pokémon
+Bicycle=false
+Outdoor=true
+[505]
+# Nido Pokémon
+Bicycle=false
+Outdoor=true
+[506]
+# Nido Pokémon
+Bicycle=false
+ShowArea=false
+[507]
+# Nido Pokémon
+Bicycle=false
+MapPosition=0,23,7
+Outdoor=false
+[508]
+# Nido Pokémon
+Bicycle=false
+MapPosition=0,30,13
+Outdoor=false
+[509]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[510]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[511]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[520]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[521]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[522]
+# Nido Pokémon
+Bicycle=false
+Outdoor=true
+[523]
+# Nido Pokémon
+Bicycle=false
+DarkMap=true
+Outdoor=false
+[524]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[528]
+# Nido Pokémon
+DarkMap=true
+[529]
+# Nido Pokémon
+DarkMap=true
+[530]
+# Nido Pokémon
+DarkMap=true
+[531]
+# Nido Pokémon
+DarkMap=true
+[533]
+# Nido Pokémon
+Bicycle=false
+[534]
+# Nido Pokémon
+Bicycle=false
+Outdoor=false
+[535]
+# Nido Pokémon
+Outdoor=true
+[537]
+# Nido Pokémon
+Outdoor=true
+[538]
+# Pokémon Fan Club
+Bicycle=false
+Outdoor=false
+[539]
+# Xenoverse
+BattleBack=xenodraga
+Bicycle=false
+Outdoor=false
+[540]
+# Luce
+Bicycle=false
+Outdoor=false
+[541]
+# Xenoverse
+BattleBack=xenodraga
+Bicycle=false
+Outdoor=false
+[542]
+# Palestra Ritmo
+BattleBack=Aula
+Bicycle=false
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,26,18
+Outdoor=false
+[543]
+# Palestra Ritmo
+BattleBack=Meloetta
+Bicycle=false
+MapPosition=0,26,18
+Outdoor=true
+WildBattleBGM=VS. MarshadowMeloetta.mp3
+[544]
+# FlashBack1
+Bicycle=false
+Outdoor=false
+[545]
+# FlashBack2
+Bicycle=false
+Outdoor=false
+[546]
+# FlashBack3
+Weather=Rain,100
+Bicycle=false
+Outdoor=false
+[547]
+# FlashBack4
+Bicycle=false
+Outdoor=false
+[548]
+# FlashBack5
+Bicycle=false
+Outdoor=false
+[549]
+# FlashBack6
+Bicycle=false
+Outdoor=false
+[550]
+# FlashBack7
+Bicycle=false
+Outdoor=false
+[551]
+# Fogne di Sagittopoli
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+[552]
+# Covo Dimension
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+[553]
+# Fogne di Sagittopoli
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+[554]
+# Covo Dimension
+BattleBack=Aula
+Bicycle=false
+MapPosition=0,10,19
+DarkMap=true
+Outdoor=false
+WildBattleBGM=VS. Tray.mp3
+[555]
+# Laboratorio di Balansopoli
+Bicycle=false
+MapPosition=0,2,13
+Outdoor=false
+[556]
+# Casinò Eldiw
+Bicycle=false
+MapPosition=0,11,18
+Outdoor=false
+[557]
+# ???
+Bicycle=false
+MapPosition=0,0,0
+Outdoor=true
+[558]
+# ???
+Bicycle=false
+Outdoor=false
+[559]
+# Scorpiopoli
+BattleBack=Westopoli
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,29,13
+Outdoor=true
+WildBattleBGM=Wild Battle Canyon.mp3
+ShowArea=true
+[560]
+# Capricornia
+Bicycle=false
+MapPosition=0,29,3
+Outdoor=false
+[561]
+# Capricornia
+Bicycle=false
+MapPosition=0,29,3
+Outdoor=false
+[562]
+# Palestra Ritmo
+Bicycle=false
+MapPosition=0,25,18
+Outdoor=false
+[563]
+# Tempio Shyleon
+Bicycle=false
+MapPosition=0,21,15
+Outdoor=false
+[564]
+# Isola Shinobi
+BattleBack=Shinobi
+Bicycle=false
+Outdoor=true
+WildBattleBGM=Wild Battle Japan.mp3
+[565]
+# Isola Shinobi
+BattleBack=Shinobi
+Weather=Sunny,100
+Bicycle=false
+WildBattleBGM=VS. Battle Fury.mp3
+[566]
+# Isola Shinobi
+Weather=Rain,100
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[567]
+# Cansiria
+BattleBack=Entei
+Weather=Sunny,100
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+[568]
+# Cansiria
+Bicycle=false
+Outdoor=false
+[569]
+# Cansiria
+BattleBack=Entei
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[570]
+# Cansiria
+Bicycle=false
+Outdoor=false
+[571]
+# Cansiria
+BattleBack=Entei
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[572]
+# Cansiria
+Bicycle=false
+Outdoor=false
+[573]
+# Cansiria
+BattleBack=Entei
+Bicycle=false
+MapPosition=0,23,3
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[574]
+# Ofiuchia
+Bicycle=false
+Outdoor=false
+[575]
+# Ofiuchia
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[576]
+# Ofiuchia
+Bicycle=false
+Outdoor=false
+[577]
+# Ofiuchia
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[578]
+# Ofiuchia
+Bicycle=false
+Outdoor=false
+[579]
+# Ofiuchia
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[580]
+# Ofiuchia
+Bicycle=false
+Outdoor=false
+[581]
+# Ofiuchia
+BattleBack=tempioshyleon
+Bicycle=false
+MapPosition=0,18,17
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[582]
+# Ofiuchia
+Bicycle=false
+Outdoor=false
+[583]
+# Tauronordia
+Bicycle=false
+Outdoor=false
+[584]
+# Tauronordia
+Bicycle=false
+Outdoor=false
+[585]
+# Tauronordia
+BattleBack=Suicune
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[586]
+# Tauronordia
+Bicycle=false
+Outdoor=false
+[587]
+# Tauronordia
+Bicycle=false
+Outdoor=false
+[588]
+# Tauronordia
+BattleBack=Suicune
+Bicycle=false
+MapPosition=0,12,1
+Outdoor=false
+WildBattleBGM=Wild Battle Japan.mp3
+[589]
+# Circo Sirio
+BattleBack=Circo
+Bicycle=false
+Outdoor=false
+[590]
+# Cansiria
+Bicycle=false
+Outdoor=false
+[591]
+# Tauronordia
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[592]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
+[593]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+[594]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+[595]
+# Bunker Abbandonato
+BattleBack=Miniera
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[596]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+Dungeon=false
+MapPosition=0,29,9
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[597]
+# Bunker Abbandonato
+BattleBack=Miniera
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[598]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+Dungeon=false
+MapPosition=0,29,9
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[599]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[600]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[601]
+# Bunker Abbandonato
+BattleBack=Miniera
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[602]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[603]
+# Bunker Abbandonato
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[604]
+# Bunker Abbandonato
+BattleBack=Bunker
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[605]
+# Bunker Abbandonato
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[606]
+# Bunker Abbandonato
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[607]
+# Bunker Abbandonato
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[608]
+# Bunker Abbandonato
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[609]
+# Bunker Abbandonato
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[610]
+# Bunker Abbandonato
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[611]
+# Bunker Abbandonato
+Bicycle=false
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[613]
+# Bunker Abbandonato
+BattleBack=Residence
+Bicycle=false
+TrainerVictoryME=Vittoria Victor Dimension.mp3
+TrainerBattleBGM=vs. TamaraFuria.mp3
+MapPosition=0,29,9
+Outdoor=false
+ShowArea=false
+[614]
+# Paradiso Sakura
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[615]
+# Sentiero Rosa
+BattleBack=Neve
+Bicycle=true
+Outdoor=true
+WildBattleBGM=Wild Battle Japan.mp3
+ShowArea=true
+[616]
+# Paradiso Sakura
+Bicycle=true
+Outdoor=true
+[617]
+# Paradiso Sakura
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[619]
+# Mostra Maratona
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+ShowArea=true
+[620]
+# Sagittopoli
+BattleBack=Beach
+Bicycle=true
+TrainerBattleBGM=VS.Trainer.mp3
+MapPosition=0,11,18
+Outdoor=true
+WildBattleBGM=Wild Battle.mp3
+ShowArea=true
+[621]
+# Torneo Apollo
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+ShowArea=true
+[622]
+# Torneo Apollo
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+ShowArea=false
+[623]
+# Torneo Apollo
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+ShowArea=false
+[624]
+# Torneo Apollo
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+ShowArea=false
+[625]
+# Paradiso Sakura
+Bicycle=false
+MapPosition=0,10,19
+Outdoor=false
+ShowArea=false
+[626]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[627]
+# Monte Zodiaco Alterato
+BattleBack=Zodiacoalterato
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[628]
+# Monte Zodiaco Alterato
+BattleBack=Fini
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[629]
+# Monte Zodiaco Alterato
+BattleBack=Zodiacoalterato
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[630]
+# Monte Zodiaco Alterato
+BattleBack=Lele
+Weather=Snow,100
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[631]
+# Monte Zodiaco Alterato
+BattleBack=Zodiacoalterato
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[632]
+# Monte Zodiaco Alterato
+BattleBack=Koko
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[633]
+# Monte Zodiaco Alterato
+BattleBack=Zodiacoalterato
+Bicycle=false
+TrainerBattleBGM=VS.RivaleAlt.mp3
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[634]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[635]
+# Monte Zodiaco Alterato
+BattleBack=Bosco
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[636]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[637]
+# Monte Zodiaco Alterato
+BattleBack=Bulu
+Bicycle=false
+Outdoor=false
+WildBattleBGM=Wild Battle Monte Alterato.mp3
+ShowArea=false
+[638]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[639]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[640]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[641]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[642]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[643]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[644]
+# Monte Zodiaco Alterato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[645]
+# Orizzonte degli Eventi
+BattleBack=Vakum
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[646]
+# Vetta Polare
+Bicycle=false
+Outdoor=false
+[647]
+# Borgo Gemini
+Bicycle=false
+Outdoor=false
+[648]
+# Balansopoli
+Bicycle=false
+Outdoor=false
+[649]
+# Leopoli
+Bicycle=false
+Outdoor=false
+[650]
+# Aeroporto Samuel Oak
+Bicycle=false
+Outdoor=false
+[651]
+# Sagittopoli
+Bicycle=false
+Outdoor=false
+[652]
+# Aranciopoli
+Bicycle=false
+Outdoor=false
+[653]
+# Via Vittoria
+Bicycle=false
+Outdoor=false
+[654]
+# Regno di Virgopoli
+Bicycle=false
+Outdoor=false
+[655]
+# Cansiria
+Bicycle=false
+Outdoor=false
+[656]
+# Aquariopoli
+Bicycle=false
+Outdoor=false
+[657]
+# Scorpiopoli
+Bicycle=false
+Outdoor=false
+[658]
+# Tauronordia
+Bicycle=false
+Outdoor=false
+[659]
+# Paradiso Sakura
+Bicycle=false
+Outdoor=false
+[660]
+# Orizzonte degli Eventi
+BattleBack=FinalVakuum
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[661]
+# Xenoverse
+BattleBack=MondoXenoverse
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[662]
+# Xenoverse
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[663]
+# Xenoverse
+BattleBack=MondoXenoverse
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=true
+[664]
+# Xenoverse
+BattleBack=Xenoalisso
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[665]
+# Xenoverse
+BattleBack=MondoXenoverse
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[666]
+# Xenoverse
+BattleBack=xenosharpedo
+Bicycle=false
+Outdoor=false
+BicycleAlways=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[667]
+# Xenoverse
+BattleBack=xenosharpedo
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[668]
+# Xenoverse
+BattleBack=xenosharpedo
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[669]
+# Xenoverse
+BattleBack=xenosharpedo
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. XBoss.mp3
+ShowArea=false
+[670]
+# Xenoverse
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[671]
+# Xenoverse
+BattleBack=xenocampus
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[672]
+# Xenoverse
+BattleBack=xenobiblioteca
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[673]
+# Xenoverse
+BattleBack=xenoasi
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[674]
+# Xenoverse
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[675]
+# Xenoverse
+BattleBack=xenoasi
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[676]
+# Xenoverse
+BattleBack=MondoXenoverse
+Bicycle=false
+TrainerBattleBGM=VS. Versil Dragalisk.mp3
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=false
+[677]
+# Orizzonte degli Eventi
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[678]
+# Limbo
+BattleBack=limbo
+Bicycle=false
+TrainerBattleBGM=The Song of Memory.mp3
+Outdoor=false
+[680]
+# Tomba Picco
+BattleBack=palestraoasi
+Bicycle=true
+Outdoor=false
+WildBattleBGM=VS.Regi.mp3
+ShowArea=true
+[681]
+# Tomba Picco
+BattleBack=palestraoasi
+Bicycle=true
+Outdoor=false
+WildBattleBGM=VS.Regi.mp3
+ShowArea=false
+[682]
+# Tomba Iceberg
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[683]
+# Tomba Iceberg
+BattleBack=GrottaGhiacciolo
+Bicycle=true
+Outdoor=false
+WildBattleBGM=VS.Regi.mp3
+ShowArea=false
+[684]
+# Tomba Ferro
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[685]
+# Tomba Ferro
+BattleBack=Gola
+Bicycle=true
+Outdoor=false
+WildBattleBGM=VS.Regi.mp3
+ShowArea=false
+[686]
+# Tomba Elettrone
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[687]
+# Tomba Elettrone
+BattleBack=Regieleki
+Bicycle=true
+Outdoor=false
+WildBattleBGM=VS.Regi.mp3
+ShowArea=false
+[688]
+# Tomba Dracosfera
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[689]
+# Tomba Dracosfera
+BattleBack=VulcanoDecibell
+Bicycle=true
+Outdoor=false
+WildBattleBGM=VS.Regi.mp3
+ShowArea=false
+[690]
+# Tomba Rosa
+BattleBack=Reginalous
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Reginalous.mp3
+ShowArea=false
+[691]
+# Tomba Rosa
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[692]
+# Bunker Abbandonato
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[693]
+# Bunker Abbandonato
+BattleBack=Old
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS.Mewtwo.mp3
+ShowArea=false
+[694]
+# Caverna Boreale
+BattleBack=Grottaghiacciolo
+Bicycle=false
+MapPosition=0,10,1
+Outdoor=false
+WildBattleBGM=VS. Luxflon.mp3
+ShowArea=true
+[695]
+# Xenoverse
+BattleBack=MondoXenoverse
+Bicycle=false
+Outdoor=false
+WildBattleBGM=VS. Versil Dragalisk.mp3
+ShowArea=true

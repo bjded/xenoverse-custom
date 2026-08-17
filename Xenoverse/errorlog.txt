@@ -1,0 +1,12 @@
+Exception: Hangup
+Message: The script is taking too long.  The game will restart.
+TileDrawingHelper:110:in `bltSmallRegularTile'
+TileDrawingHelper:115:in `bltSmallTile'
+Editor:3385:in `createMinimap'
+Editor:3382:in `each'
+Editor:3382:in `createMinimap'
+Editor:3381:in `each'
+Editor:3381:in `createMinimap'
+Editor:3380:in `each'
+Editor:3380:in `createMinimap'
+Editor:1504:in `refresh'

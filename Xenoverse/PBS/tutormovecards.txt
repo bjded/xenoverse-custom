@@ -1,0 +1,4 @@
+[test]
+name = test
+move = TACKLE
+image = test
