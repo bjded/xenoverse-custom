@@ -15,8 +15,8 @@
 ## Important script locations
 
 - `Data/Scripts/001_Settings.rb`: global settings, including
-  `SHINYPOKEMONCHANCE = 512` (exactly 1/128 because the shiny threshold is
-  out of 65536).
+  `SHINYPOKEMONCHANCE = 655` (approximately 1/100 because the shiny threshold
+  is out of 65536).
 - `Data/Scripts/048_Scene_Map.rb`: map input and the F9 save-editor hotkey.
 - `Data/Scripts/084_PField_Field.rb`: wild-Pokemon generation and the extra
   Shiny Charm retry.

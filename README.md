@@ -4,7 +4,7 @@
 
 The changes from the base game are:
 
-- The shiny rate is set to **1/128**.
+- The shiny rate is set to approximately **1/100** (655/65,536).
 - An in-game save editor is available with **F9** while on a normal map. Use the normal in-game Save command to keep changes.
 - All known **Mystery Gifts** have been restored.
 
