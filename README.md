@@ -1,21 +1,18 @@
-# Xenoverse: Per Aspera Ad Astra - Source Code Repository
+# Xenoverse: Per Aspera Ad Astra - Custom
 
 ## Custom changes
 
-This custom build retains the original game, creator credits, branding, and usage guidelines. The changes made here are:
+The changes from the base game are:
 
 - The shiny rate is set to **1/128**.
-- An in-game save editor is enabled through **F9** while on a normal map. It uses the game's debug screens to edit party and PC Pokémon data; use the normal in-game Save command to write changes.
+- An in-game save editor is available with **F9** while on a normal map. Use the normal in-game Save command to keep changes.
+- All known **Mystery Gifts** have been restored.
 
 Please back up `Game.rxdata` before using the save editor.
 
 ## Mystery gifts
 
-The offline Mystery Gift catalog is stored in [`Xenoverse/Data/MysteryGifts.csv`](Xenoverse/Data/MysteryGifts.csv) and is handled by [`249_LocalMysteryGifts.rb`](Xenoverse/Data/Scripts/249_LocalMysteryGifts.rb). Published codes are checked locally before the original remote request. Every catalog entry uses `9999-12-31` as its expiration date, so these local gifts do not expire.
-
-Cards shown without a published code use a local `TW1TCH_...` alias. All catalog gifts are level 5, use a Cherish Ball, receive random IVs and a normal randomly generated nature, have zero EVs, use their default level-up moves, have no custom nickname, and use the current trainer as OT.
-
-### Published codes
+All known Mystery Gifts restored in this custom build are listed below. Enter a code in the in-game Mystery Gift menu to claim it.
 
 | Code | Gift |
 | --- | --- |
@@ -33,11 +30,6 @@ Cards shown without a published code use a local `TW1TCH_...` alias. All catalog
 | `SHININGGL4C3ON` | Shiny Shining Glaceon |
 | `V1NT4G3CYNDA4U` | Retro Shiny Cyndaquil |
 | `H4PPY29ST4RK` | Shiny Sharpedo |
-
-### Generated local aliases
-
-| Code | Gift |
-| --- | --- |
 | `TW1TCH_RETRO_STARYU` | Retro Staryu |
 | `TW1TCH_SHINY_RETRO_TOTODILE` | Shiny Retro Totodile |
 | `TW1TCH_SHINY_RETRO_EEVEE` | Shiny Retro Eevee |
@@ -67,10 +59,6 @@ Cards shown without a published code use a local `TW1TCH_...` alias. All catalog
 | `TW1TCH_SHINY_PLATINUM_LUCARIO` | Shiny Platinum Lucario |
 
 ## Disclaimer
-Hello everyone and welcome to Xenoverse: Per Aspera Ad Astra's source code repository. 
-Please understand that this repository is not meant to be maintained and you should not expect to find documentation on the contents of this repository.
-Moreover, by using or referring to this repository you're acknowledging and agreeing to the guidelines at this link:
-[Xenoverse: Per Aspera Ad Astra Code Access and Mods Guidelines](https://gitlab.com/weedleteam/Xenoverse-Source/-/blob/main/CodeAndModsGuidelines.md)
+This is an unofficial, fan-customized version of Xenoverse: Per Aspera Ad Astra. The original game, assets, branding, and creator credits belong to Beehive Studios and the original contributors; please preserve those credits when using or sharing this version.
 
-Useful links:
-[Beehive Studios' Discord Server](https://gitlab.com/weedleteam/Xenoverse-Source/-/blob/main/CodeAndModsGuidelines.md) - (**Please do not discuss mods development there, as it's a general-purpose server**. If you do, you will be banned.)
+For the original source, see [Xenoverse: Per Aspera Ad Astra on GitLab](https://gitlab.com/weedleteam/Xenoverse-Source). Please also follow the [Code Access and Mods Guidelines](https://gitlab.com/weedleteam/Xenoverse-Source/-/blob/main/CodeAndModsGuidelines.md).

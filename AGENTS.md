@@ -48,6 +48,16 @@
   external binary save editor unless a real save has been validated against
   the exact runtime classes.
 
+## Mystery Gift implementation
+
+- `Xenoverse/Data/MysteryGifts.csv` is the local catalog of published codes and
+  `TW1TCH_...` aliases.
+- `Xenoverse/Data/Scripts/249_LocalMysteryGifts.rb` loads the catalog and
+  intercepts known `checkCode` and `getGifts` requests before falling back to
+  the original remote handling for unknown codes.
+- Local catalog entries use `9999-12-31` as their expiration date and preserve
+  the existing 14-field gift response format.
+
 ## Development workflow
 
 - Preserve unrelated and pre-existing worktree changes.
@@ -56,8 +66,6 @@
 - Validate source wiring and calculations statically before claiming success.
 - Do not launch either game executable automatically. Runtime GUI checks need
   explicit user authorization.
-- Do not commit, push, deploy, or publish unless explicitly requested. The
-  planned commit is intentionally deferred until after the user renames the
-  project folder and restarts the session.
+- Do not commit, push, deploy, or publish unless explicitly requested.
 - Do not rebuild or replace `Data/Scripts.rxdata` unless the loader mechanism
   changes; the current loader reads the extracted script folder directly.
