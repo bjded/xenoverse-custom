@@ -6,8 +6,8 @@
 #===============================================================================
 MAXIMUMLEVEL       = 100
 EGGINITIALLEVEL    = 1
-# Natural shiny threshold out of 65536: floor(65536 / 100) = 655, approximately 1 / 100.
-SHINYPOKEMONCHANCE = 655
+# Natural shiny threshold out of 65536: floor(65536 / 64) = 1024, approximately 1 / 64.
+SHINYPOKEMONCHANCE = 1024
 POKERUSCHANCE      = 3
 BOARDSPEED         = 6.0    
 UNCATCHABLE_POKEMON= 230

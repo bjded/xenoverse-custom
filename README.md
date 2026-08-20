@@ -4,7 +4,8 @@
 
 The changes from the base game are:
 
-- The shiny rate is set to approximately **1/100** (655/65,536).
+- The shiny rate is set to approximately **1/64** (1,024/65,536).
+- Added two quality-of-life features to the in-game options menu: volume control and an Auto Run toggle.
 - An in-game save editor is available with **F9** while on a normal map. Use the normal in-game Save command to keep changes.
 - All known **Mystery Gifts** have been restored.
 
